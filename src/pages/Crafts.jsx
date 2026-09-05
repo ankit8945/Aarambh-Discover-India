@@ -9,7 +9,7 @@ export default function Crafts() {
       title: "Pottery & Ceramics",
       text:
         "Discover India's traditional pottery, ceramics and clay craftsmanship shaped by generations of artisans.",
-      image: "/images/crafts/pottery.png",
+      image: "/images/crafts/pottery.webp",
     },
 
     {
@@ -18,7 +18,7 @@ export default function Crafts() {
       title: "Handloom & Textiles",
       text:
         "Explore India's handwoven fabrics, traditional looms, embroidery and textile traditions.",
-      image: "/images/crafts/textiles.png",
+      image: "/images/crafts/textiles.webp",
     },
 
     {
@@ -27,7 +27,7 @@ export default function Crafts() {
       title: "Folk Art",
       text:
         "Discover paintings, decorative arts and artistic traditions rooted in India's communities.",
-      image: "/images/crafts/folk-art.png",
+      image: "/images/crafts/folk-art.webp",
     },
 
     {
@@ -36,7 +36,7 @@ export default function Crafts() {
       title: "Woodcraft",
       text:
         "Explore India's intricate wooden carvings, toys, furniture and traditional craftsmanship.",
-      image: "/images/crafts/woodcraft.png",
+      image: "/images/crafts/woodcraft.webp",
     },
 
     {
@@ -45,7 +45,7 @@ export default function Crafts() {
       title: "Jewellery & Metalwork",
       text:
         "Discover traditional jewellery, metal crafts and regional ornament-making traditions.",
-      image: "/images/crafts/jewellery.png",
+      image: "/images/crafts/jewellery.webp",
     },
 
     {
@@ -54,7 +54,7 @@ export default function Crafts() {
       title: "Bamboo & Cane",
       text:
         "Explore sustainable handmade crafts created from bamboo, cane and other natural materials.",
-      image: "/images/crafts/bamboo.png",
+      image: "/images/crafts/bamboo.webp",
     },
   ];
 

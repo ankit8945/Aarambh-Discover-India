@@ -13,7 +13,7 @@ const foodCategories = {
         name: "Litti Chokha",
         slug: "litti-chokha",
         region: "Bihar",
-        image: "/images/food/east-india/litti-chokha.png",
+        image: "/images/food/east-india/litti-chokha.webp",
         description:
           "A beloved Bihari dish of roasted wheat balls served with spiced mashed vegetables.",
       },
@@ -21,7 +21,7 @@ const foodCategories = {
         name: "Rosogolla",
         slug: "rosogolla",
         region: "West Bengal",
-        image: "/images/food/east-india/rosogolla.png",
+        image: "/images/food/east-india/rosogolla.webp",
         description:
           "Soft chhena dumplings soaked in light sugar syrup and celebrated as one of Bengal's iconic sweets.",
       },
@@ -29,7 +29,7 @@ const foodCategories = {
         name: "Machher Jhol",
         slug: "machher-jhol",
         region: "West Bengal",
-        image: "/images/food/east-india/machher-jhol.png",
+        image: "/images/food/east-india/machher-jhol.webp",
         description:
           "A traditional Bengali fish curry prepared with spices and a light, flavourful gravy.",
       },
@@ -37,7 +37,7 @@ const foodCategories = {
         name: "Dalma",
         slug: "dalma",
         region: "Odisha",
-        image: "/images/food/east-india/dalma.png",
+        image: "/images/food/east-india/dalma.webp",
         description:
           "A traditional Odia preparation combining lentils and vegetables with gentle spices.",
       },
@@ -45,7 +45,7 @@ const foodCategories = {
         name: "Pakhala Bhata",
         slug: "pakhala-bhata",
         region: "Odisha",
-        image: "/images/food/east-india/pakhala-bhata.png",
+        image: "/images/food/east-india/pakhala-bhata.webp",
         description:
           "A traditional fermented rice dish especially enjoyed in Odisha during warmer months.",
       },
@@ -53,7 +53,7 @@ const foodCategories = {
         name: "Khar",
         slug: "khar",
         region: "Assam",
-        image: "/images/food/east-india/khar.png",
+        image: "/images/food/east-india/khar.webp",
         description:
           "A distinctive Assamese preparation known for its unique alkaline ingredient and simple flavours.",
       },
@@ -71,7 +71,7 @@ const foodCategories = {
         name: "Butter Chicken",
         slug: "butter-chicken",
         region: "Punjab",
-        image: "/images/food/north-india/butter-chicken.png",
+        image: "/images/food/north-india/butter-chicken.webp",
         description:
           "A rich and creamy chicken preparation known for its buttery tomato-based gravy.",
       },
@@ -79,7 +79,7 @@ const foodCategories = {
         name: "Rajma Chawal",
         slug: "rajma-chawal",
         region: "North India",
-        image: "/images/food/north-india/rajma-chawal.png",
+        image: "/images/food/north-india/rajma-chawal.webp",
         description:
           "A comforting combination of spiced kidney bean curry served with steamed rice.",
       },
@@ -87,7 +87,7 @@ const foodCategories = {
         name: "Chole Bhature",
         slug: "chole-bhature",
         region: "Punjab & North India",
-        image: "/images/food/north-india/chole-bhature.png",
+        image: "/images/food/north-india/chole-bhature.webp",
         description:
           "Spiced chickpea curry served with deep-fried, fluffy bhature.",
       },
@@ -95,7 +95,7 @@ const foodCategories = {
         name: "Rogan Josh",
         slug: "rogan-josh",
         region: "Kashmir",
-        image: "/images/food/north-india/rogan-josh.png",
+        image: "/images/food/north-india/rogan-josh.webp",
         description:
           "A celebrated Kashmiri curry known for aromatic spices and tender meat.",
       },
@@ -103,7 +103,7 @@ const foodCategories = {
         name: "Dal Baati Churma",
         slug: "dal-baati-churma",
         region: "Rajasthan",
-        image: "/images/food/north-india/dal-baati-churma.png",
+        image: "/images/food/north-india/dal-baati-churma.webp",
         description:
           "A traditional Rajasthani meal combining baked baati, lentils and sweet churma.",
       },
@@ -111,7 +111,7 @@ const foodCategories = {
         name: "Kadhi Pakora",
         slug: "kadhi-pakora",
         region: "North India",
-        image: "/images/food/north-india/kadhi-pakora.png",
+        image: "/images/food/north-india/kadhi-pakora.webp",
         description:
           "A yogurt-based curry with gram-flour fritters, traditionally served with rice.",
       },
@@ -129,7 +129,7 @@ const foodCategories = {
         name: "Masala Dosa",
         slug: "masala-dosa",
         region: "South India",
-        image: "/images/food/south-india/masala-dosa.png",
+        image: "/images/food/south-india/masala-dosa.webp",
         description:
           "A crisp fermented rice-and-lentil crepe traditionally filled with spiced potato.",
       },
@@ -137,7 +137,7 @@ const foodCategories = {
         name: "Idli Sambar",
         slug: "idli-sambar",
         region: "South India",
-        image: "/images/food/south-india/idli-sambar.png",
+        image: "/images/food/south-india/idli-sambar.webp",
         description:
           "Soft steamed rice cakes served with lentil-based sambar and traditional chutneys.",
       },
@@ -161,7 +161,7 @@ const foodCategories = {
         name: "Pongal",
         slug: "pongal",
         region: "Tamil Nadu",
-        image: "/images/food/south-india/pongal.png",
+        image: "/images/food/south-india/pongal.webp",
         description:
           "A traditional rice and lentil preparation enjoyed in both savoury and festive forms.",
       },
@@ -169,7 +169,7 @@ const foodCategories = {
         name: "Mysore Pak",
         slug: "mysore-pak",
         region: "Karnataka",
-        image: "/images/food/south-india/mysore-pak.png",
+        image: "/images/food/south-india/mysore-pak.webp",
         description:
           "A rich traditional sweet made from gram flour, ghee and sugar.",
       },
@@ -187,7 +187,7 @@ const foodCategories = {
         name: "Vada Pav",
         slug: "vada-pav",
         region: "Maharashtra",
-        image: "/images/food/west-india/vada-pav.png",
+        image: "/images/food/west-india/vada-pav.webp",
         description:
           "A spiced potato fritter served inside a bread roll with chutneys and spices.",
       },
@@ -195,7 +195,7 @@ const foodCategories = {
         name: "Pav Bhaji",
         slug: "pav-bhaji",
         region: "Maharashtra",
-        image: "/images/food/west-india/pav-bhaji.jpeg",
+        image: "/images/food/west-india/pav-bhaji.webp",
         description:
           "A rich vegetable mash served with buttered pav and fresh garnishes.",
       },
@@ -203,7 +203,7 @@ const foodCategories = {
         name: "Dhokla",
         slug: "dhokla",
         region: "Gujarat",
-        image: "/images/food/west-india/dhokla.jpeg",
+        image: "/images/food/west-india/dhokla.webp",
         description:
           "A soft and savoury steamed preparation made primarily from fermented gram batter.",
       },
@@ -211,7 +211,7 @@ const foodCategories = {
         name: "Undhiyu",
         slug: "undhiyu",
         region: "Gujarat",
-        image: "/images/food/west-india/undhiyu.jpeg",
+        image: "/images/food/west-india/undhiyu.webp",
         description:
           "A traditional mixed vegetable preparation associated with Gujarati cuisine.",
       },
@@ -219,7 +219,7 @@ const foodCategories = {
         name: "Goan Fish Curry",
         slug: "goan-fish-curry",
         region: "Goa",
-        image: "/images/food/west-india/goan-fish-curry.jpeg",
+        image: "/images/food/west-india/goan-fish-curry.webp",
         description:
           "A coastal curry combining fish with coconut, spices and tangy flavours.",
       },
@@ -227,7 +227,7 @@ const foodCategories = {
         name: "Puran Poli",
         slug: "puran-poli",
         region: "Maharashtra",
-        image: "/images/food/west-india/puran-poli.jpeg",
+        image: "/images/food/west-india/puran-poli.webp",
         description:
           "A traditional sweet flatbread filled with a spiced lentil and jaggery mixture.",
       },
@@ -245,7 +245,7 @@ const foodCategories = {
         name: "Pani Puri",
         slug: "pani-puri",
         region: "Across India",
-        image: "/images/food/street-food/pani-puri.jpeg",
+        image: "/images/food/street-food/pani-puri.webp",
         description:
           "Crispy hollow puris filled with spiced water, chutneys and flavourful fillings.",
       },
@@ -253,7 +253,7 @@ const foodCategories = {
         name: "Samosa",
         slug: "samosa",
         region: "Pan India",
-        image: "/images/food/street-food/samosa.jpeg",
+        image: "/images/food/street-food/samosa.webp",
         description:
           "A crisp pastry filled traditionally with spiced potatoes and peas.",
       },
@@ -261,7 +261,7 @@ const foodCategories = {
         name: "Aloo Tikki",
         slug: "aloo-tikki",
         region: "North India",
-        image: "/images/food/street-food/aloo-tikki.png",
+        image: "/images/food/street-food/aloo-tikki.webp",
         description:
           "Crispy potato patties commonly served with chutneys, yogurt and spices.",
       },
@@ -269,7 +269,7 @@ const foodCategories = {
         name: "Kathi Roll",
         slug: "kathi-roll",
         region: "Kolkata",
-        image: "/images/food/street-food/kathi-roll.jpeg",
+        image: "/images/food/street-food/kathi-roll.webp",
         description:
           "A popular Kolkata street food consisting of fillings wrapped in a flaky paratha.",
       },
@@ -277,7 +277,7 @@ const foodCategories = {
         name: "Vada Pav",
         slug: "street-vada-pav",
         region: "Mumbai",
-        image: "/images/food/street-food/vada-pav.png",
+        image: "/images/food/street-food/vada-pav.webp",
         description:
           "Mumbai's iconic street snack combining a spiced potato fritter with pav and chutneys.",
       },
@@ -285,7 +285,7 @@ const foodCategories = {
         name: "Jhalmuri",
         slug: "jhalmuri",
         region: "West Bengal",
-        image: "/images/food/street-food/jhalmuri.jpeg",
+        image: "/images/food/street-food/jhalmuri.webp",
         description:
           "A crunchy Bengali snack made with puffed rice, spices, vegetables and mustard oil.",
       },

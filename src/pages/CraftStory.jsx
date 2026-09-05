@@ -9,7 +9,7 @@ const craftStories = {
     category: "Pottery & Ceramics",
     eyebrow: "RAJASTHAN",
     name: "Blue Pottery",
-    image: "/images/crafts/pottery/blue-pottery.png",
+    image: "/images/crafts/pottery/blue-pottery.webp",
     tagline:
       "A distinctive craft of colour, glaze and delicate craftsmanship.",
     description:
@@ -30,7 +30,7 @@ const craftStories = {
     category: "Pottery & Ceramics",
     eyebrow: "ACROSS INDIA",
     name: "Terracotta",
-    image: "/images/crafts/pottery/terracotta.png",
+    image: "/images/crafts/pottery/terracotta.webp",
     tagline:
       "Earth transformed into vessels, figures and everyday objects.",
     description:
@@ -51,7 +51,7 @@ const craftStories = {
     category: "Pottery & Ceramics",
     eyebrow: "UTTAR PRADESH",
     name: "Khurja Pottery",
-    image: "/images/crafts/pottery/khurja.png",
+    image: "/images/crafts/pottery/khurja.webp",
     tagline:
       "Colourful ceramics shaped by generations of skilled potters.",
     description:
@@ -72,7 +72,7 @@ const craftStories = {
     category: "Pottery & Ceramics",
     eyebrow: "WEST BENGAL",
     name: "Bankura Horse",
-    image: "/images/crafts/pottery/bankura.png",
+    image: "/images/crafts/pottery/bankura.webp",
     tagline:
       "A striking terracotta form representing Bengal's artistic heritage.",
     description:
@@ -93,7 +93,7 @@ const craftStories = {
     category: "Pottery & Ceramics",
     eyebrow: "MANIPUR",
     name: "Longpi Pottery",
-    image: "/images/crafts/pottery/longpi.png",
+    image: "/images/crafts/pottery/longpi.webp",
     tagline:
       "A distinctive pottery tradition shaped without the conventional potter's wheel.",
     description:
@@ -114,7 +114,7 @@ const craftStories = {
     category: "Pottery & Ceramics",
     eyebrow: "UTTAR PRADESH",
     name: "Black Pottery",
-    image: "/images/crafts/pottery/black-pottery.png",
+    image: "/images/crafts/pottery/black-pottery.webp",
     tagline:
       "Dark polished surfaces decorated with delicate traditional patterns.",
     description:
@@ -139,7 +139,7 @@ const craftStories = {
     category: "Handloom & Textiles",
     eyebrow: "VARANASI, UTTAR PRADESH",
     name: "Banarasi Weaving",
-    image: "/images/crafts/textiles/banarasi.png",
+    image: "/images/crafts/textiles/banarasi.webp",
     tagline:
       "Fine weaving where silk, pattern and craftsmanship meet.",
     description:
@@ -160,7 +160,7 @@ const craftStories = {
     category: "Handloom & Textiles",
     eyebrow: "TAMIL NADU",
     name: "Kanjivaram Weaving",
-    image: "/images/crafts/textiles/kanjivaram.png",
+    image: "/images/crafts/textiles/kanjivaram.webp",
     tagline:
       "Rich silk, bold colours and intricate South Indian craftsmanship.",
     description:
@@ -181,7 +181,7 @@ const craftStories = {
     category: "Handloom & Textiles",
     eyebrow: "PUNJAB",
     name: "Phulkari Embroidery",
-    image: "/images/crafts/textiles/phulkari.png",
+    image: "/images/crafts/textiles/phulkari.webp",
     tagline:
       "Colourful embroidery carrying generations of Punjabi tradition.",
     description:
@@ -202,7 +202,7 @@ const craftStories = {
     category: "Handloom & Textiles",
     eyebrow: "LUCKNOW, UTTAR PRADESH",
     name: "Chikankari",
-    image: "/images/crafts/textiles/chikankari.png",
+    image: "/images/crafts/textiles/chikankari.webp",
     tagline:
       "Delicate hand embroidery known for elegance and intricate detail.",
     description:
@@ -223,7 +223,7 @@ const craftStories = {
     category: "Handloom & Textiles",
     eyebrow: "ODISHA & TELANGANA",
     name: "Ikat",
-    image: "/images/crafts/textiles/ikat.png",
+    image: "/images/crafts/textiles/ikat.webp",
     tagline:
       "Patterns created through the meeting of dye, thread and loom.",
     description:
@@ -244,7 +244,7 @@ const craftStories = {
     category: "Handloom & Textiles",
     eyebrow: "TELANGANA",
     name: "Pochampally",
-    image: "/images/crafts/textiles/pochampally.png",
+    image: "/images/crafts/textiles/pochampally.webp",
     tagline:
       "A celebrated handloom tradition of colour, geometry and Ikat weaving.",
     description:
@@ -269,7 +269,7 @@ const craftStories = {
     category: "Folk Art",
     eyebrow: "BIHAR",
     name: "Madhubani",
-    image: "/images/crafts/folk-art/madhubani.png",
+    image: "/images/crafts/folk-art/madhubani.webp",
     tagline:
       "A vibrant painting tradition where every pattern tells a story.",
     description:
@@ -290,7 +290,7 @@ const craftStories = {
     category: "Folk Art",
     eyebrow: "MAHARASHTRA",
     name: "Warli",
-    image: "/images/crafts/folk-art/warli.png",
+    image: "/images/crafts/folk-art/warli.webp",
     tagline:
       "Simple geometric forms telling stories of community and nature.",
     description:
@@ -311,7 +311,7 @@ const craftStories = {
     category: "Folk Art",
     eyebrow: "ODISHA",
     name: "Pattachitra",
-    image: "/images/crafts/folk-art/pattachitra.png",
+    image: "/images/crafts/folk-art/pattachitra.webp",
     tagline:
       "Detailed paintings rooted in stories, mythology and devotion.",
     description:
@@ -332,7 +332,7 @@ const craftStories = {
     category: "Folk Art",
     eyebrow: "MADHYA PRADESH",
     name: "Gond Art",
-    image: "/images/crafts/folk-art/gond.png",
+    image: "/images/crafts/folk-art/gond.webp",
     tagline:
       "Nature and imagination brought alive through intricate patterns.",
     description:
@@ -353,7 +353,7 @@ const craftStories = {
     category: "Folk Art",
     eyebrow: "SOUTH INDIA",
     name: "Kalamkari",
-    image: "/images/crafts/folk-art/kalamkari.png",
+    image: "/images/crafts/folk-art/kalamkari.webp",
     tagline:
       "Hand-drawn textile art inspired by stories and nature.",
     description:
@@ -374,7 +374,7 @@ const craftStories = {
     category: "Folk Art",
     eyebrow: "RAJASTHAN",
     name: "Phad Painting",
-    image: "/images/crafts/folk-art/phad.png",
+    image: "/images/crafts/folk-art/phad.webp",
     tagline:
       "A painted scroll tradition where art becomes visual storytelling.",
     description:
@@ -399,7 +399,7 @@ const craftStories = {
     category: "Woodcraft",
     eyebrow: "ANDHRA PRADESH",
     name: "Kondapalli Toys",
-    image: "/images/crafts/woodcraft/kondapalli.png",
+    image: "/images/crafts/woodcraft/kondapalli.webp",
     tagline:
       "Lightweight wooden figures bringing village life to colour.",
     description:
@@ -420,7 +420,7 @@ const craftStories = {
     category: "Woodcraft",
     eyebrow: "KARNATAKA",
     name: "Channapatna Toys",
-    image: "/images/crafts/woodcraft/channapatna.png",
+    image: "/images/crafts/woodcraft/channapatna.webp",
     tagline:
       "Colourful wooden toys shaped with traditional craftsmanship.",
     description:
@@ -441,7 +441,7 @@ const craftStories = {
     category: "Woodcraft",
     eyebrow: "UTTAR PRADESH",
     name: "Saharanpur Woodcraft",
-    image: "/images/crafts/woodcraft/saharanpur.png",
+    image: "/images/crafts/woodcraft/saharanpur.webp",
     tagline:
       "Intricate carving transformed into furniture and decorative art.",
     description:
@@ -462,7 +462,7 @@ const craftStories = {
     category: "Woodcraft",
     eyebrow: "RAJASTHAN",
     name: "Rajasthan Wood Carving",
-    image: "/images/crafts/woodcraft/rajasthan.png",
+    image: "/images/crafts/woodcraft/rajasthan.webp",
     tagline:
       "Traditional carving reflecting the decorative heritage of Rajasthan.",
     description:
@@ -483,7 +483,7 @@ const craftStories = {
     category: "Woodcraft",
     eyebrow: "KERALA",
     name: "Kerala Wood Carving",
-    image: "/images/crafts/woodcraft/kerala.png",
+    image: "/images/crafts/woodcraft/kerala.webp",
     tagline:
       "Detailed wooden craftsmanship inspired by architecture and tradition.",
     description:
@@ -504,7 +504,7 @@ const craftStories = {
     category: "Woodcraft",
     eyebrow: "ACROSS INDIA",
     name: "Wooden Masks",
-    image: "/images/crafts/woodcraft/masks.png",
+    image: "/images/crafts/woodcraft/masks.webp",
     tagline:
       "Carved faces carrying stories of performance and tradition.",
     description:
@@ -529,7 +529,7 @@ const craftStories = {
     category: "Jewellery & Metalwork",
     eyebrow: "CENTRAL & EASTERN INDIA",
     name: "Dhokra",
-    image: "/images/crafts/jewellery/dhokra.png",
+    image: "/images/crafts/jewellery/dhokra.webp",
     tagline:
       "Ancient metal craftsmanship shaped through the lost-wax tradition.",
     description:
@@ -550,7 +550,7 @@ const craftStories = {
     category: "Jewellery & Metalwork",
     eyebrow: "RAJASTHAN",
     name: "Kundan",
-    image: "/images/crafts/jewellery/kundan.png",
+    image: "/images/crafts/jewellery/kundan.webp",
     tagline:
       "Traditional jewellery where gemstones meet intricate craftsmanship.",
     description:
@@ -571,7 +571,7 @@ const craftStories = {
     category: "Jewellery & Metalwork",
     eyebrow: "RAJASTHAN",
     name: "Meenakari",
-    image: "/images/crafts/jewellery/meenakari.png",
+    image: "/images/crafts/jewellery/meenakari.webp",
     tagline:
       "Brilliant enamel colours bringing metalwork to life.",
     description:
@@ -592,7 +592,7 @@ const craftStories = {
     category: "Jewellery & Metalwork",
     eyebrow: "RAJASTHAN",
     name: "Thewa",
-    image: "/images/crafts/jewellery/thewa.png",
+    image: "/images/crafts/jewellery/thewa.webp",
     tagline:
       "Delicate gold work fused with colourful glass.",
     description:
@@ -613,7 +613,7 @@ const craftStories = {
     category: "Jewellery & Metalwork",
     eyebrow: "KARNATAKA",
     name: "Bidriware",
-    image: "/images/crafts/jewellery/bidriware.png",
+    image: "/images/crafts/jewellery/bidriware.webp",
     tagline:
       "Dark metal surfaces highlighted by delicate contrasting inlay.",
     description:
@@ -634,7 +634,7 @@ const craftStories = {
     category: "Jewellery & Metalwork",
     eyebrow: "ODISHA",
     name: "Filigree",
-    image: "/images/crafts/jewellery/filigree.png",
+    image: "/images/crafts/jewellery/filigree.webp",
     tagline:
       "Fine metal wires transformed into intricate works of art.",
     description:
@@ -659,7 +659,7 @@ const craftStories = {
     category: "Bamboo & Cane",
     eyebrow: "NORTHEAST INDIA",
     name: "Bamboo Baskets",
-    image: "/images/crafts/bamboo/baskets.png",
+    image: "/images/crafts/bamboo/baskets.webp",
     tagline:
       "Everyday objects woven from one of India's most versatile natural materials.",
     description:
@@ -680,7 +680,7 @@ const craftStories = {
     category: "Bamboo & Cane",
     eyebrow: "ASSAM",
     name: "Cane Furniture",
-    image: "/images/crafts/bamboo/furniture.png",
+    image: "/images/crafts/bamboo/furniture.webp",
     tagline:
       "Natural cane transformed into practical and elegant furniture.",
     description:
@@ -701,7 +701,7 @@ const craftStories = {
     category: "Bamboo & Cane",
     eyebrow: "NORTHEAST INDIA",
     name: "Bamboo Weaving",
-    image: "/images/crafts/bamboo/weaving.png",
+    image: "/images/crafts/bamboo/weaving.webp",
     tagline:
       "Flexible bamboo transformed into useful and beautiful forms.",
     description:
@@ -722,7 +722,7 @@ const craftStories = {
     category: "Bamboo & Cane",
     eyebrow: "ACROSS INDIA",
     name: "Bamboo Instruments",
-    image: "/images/crafts/bamboo/instruments.png",
+    image: "/images/crafts/bamboo/instruments.webp",
     tagline:
       "Natural materials turned into instruments of music and tradition.",
     description:
@@ -743,7 +743,7 @@ const craftStories = {
     category: "Bamboo & Cane",
     eyebrow: "NORTHEAST INDIA",
     name: "Cane Baskets",
-    image: "/images/crafts/bamboo/cane-baskets.png",
+    image: "/images/crafts/bamboo/cane-baskets.webp",
     tagline:
       "Handwoven baskets combining utility with regional craftsmanship.",
     description:
@@ -764,7 +764,7 @@ const craftStories = {
     category: "Bamboo & Cane",
     eyebrow: "ACROSS INDIA",
     name: "Bamboo Decor",
-    image: "/images/crafts/bamboo/decor.png",
+    image: "/images/crafts/bamboo/decor.webp",
     tagline:
       "Natural bamboo transformed into beautiful decorative objects.",
     description:

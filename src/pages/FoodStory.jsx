@@ -9,7 +9,7 @@ const foodStories = {
     category: "East Indian Cuisine",
     eyebrow: "BIHAR",
     name: "Litti Chokha",
-    image: "/images/food/east-india/litti-chokha.png",
+    image: "/images/food/east-india/litti-chokha.webp",
     tagline: "A rustic Bihari classic built around roasted wheat and smoky flavours.",
     description:
       "Litti Chokha is one of Bihar's best-known traditional dishes, combining roasted wheat litti with a rustic mixture of mashed vegetables and spices.",
@@ -29,7 +29,7 @@ const foodStories = {
     category: "East Indian Cuisine",
     eyebrow: "WEST BENGAL",
     name: "Rosogolla",
-    image: "/images/food/east-india/rosogolla.png",
+    image: "/images/food/east-india/rosogolla.webp",
     tagline: "Soft, delicate sweets soaked in fragrant sugar syrup.",
     description:
       "Rosogolla is a famous Bengali sweet made from chhena, shaped into soft balls and cooked in sugar syrup.",
@@ -49,7 +49,7 @@ const foodStories = {
     category: "East Indian Cuisine",
     eyebrow: "WEST BENGAL",
     name: "Machher Jhol",
-    image: "/images/food/east-india/machher-jhol.png",
+    image: "/images/food/east-india/machher-jhol.webp",
     tagline: "A light and aromatic fish curry at the heart of Bengali cuisine.",
     description:
       "Machher Jhol is a traditional Bengali fish curry prepared with fish, spices and a light flavourful gravy.",
@@ -69,7 +69,7 @@ const foodStories = {
     category: "East Indian Cuisine",
     eyebrow: "ODISHA",
     name: "Dalma",
-    image: "/images/food/east-india/dalma.png",
+    image: "/images/food/east-india/dalma.webp",
     tagline: "A comforting combination of lentils, vegetables and gentle spices.",
     description:
       "Dalma is a traditional Odia preparation made by cooking lentils with vegetables and aromatic spices.",
@@ -89,7 +89,7 @@ const foodStories = {
     category: "East Indian Cuisine",
     eyebrow: "ODISHA",
     name: "Pakhala Bhata",
-    image: "/images/food/east-india/pakhala-bhata.png",
+    image: "/images/food/east-india/pakhala-bhata.webp",
     tagline: "A refreshing fermented rice tradition deeply rooted in Odisha.",
     description:
       "Pakhala Bhata is a traditional fermented rice preparation that is especially popular during the warmer months.",
@@ -109,7 +109,7 @@ const foodStories = {
     category: "East Indian Cuisine",
     eyebrow: "ASSAM",
     name: "Khar",
-    image: "/images/food/east-india/khar.png",
+    image: "/images/food/east-india/khar.webp",
     tagline: "A distinctive Assamese preparation with a flavour unlike most Indian dishes.",
     description:
       "Khar is a traditional Assamese preparation known for its characteristic alkaline ingredient and simple, balanced flavours.",
@@ -133,7 +133,7 @@ const foodStories = {
     category: "North Indian Cuisine",
     eyebrow: "PUNJAB",
     name: "Butter Chicken",
-    image: "/images/food/north-india/butter-chicken.png",
+    image: "/images/food/north-india/butter-chicken.webp",
     tagline: "A rich and creamy curry that became a global favourite.",
     description:
       "Butter Chicken is a popular North Indian dish featuring chicken cooked in a rich tomato-based gravy with butter and aromatic spices.",
@@ -153,7 +153,7 @@ const foodStories = {
     category: "North Indian Cuisine",
     eyebrow: "NORTH INDIA",
     name: "Rajma Chawal",
-    image: "/images/food/north-india/rajma-chawal.png",
+    image: "/images/food/north-india/rajma-chawal.webp",
     tagline: "A comforting combination of spiced kidney beans and rice.",
     description:
       "Rajma Chawal combines slow-cooked kidney bean curry with steamed rice and is especially associated with home-style North Indian cooking.",
@@ -173,7 +173,7 @@ const foodStories = {
     category: "North Indian Cuisine",
     eyebrow: "NORTH INDIA",
     name: "Chole Bhature",
-    image: "/images/food/north-india/chole-bhature.png",
+    image: "/images/food/north-india/chole-bhature.webp",
     tagline: "Spiced chickpeas paired with fluffy fried bread.",
     description:
       "Chole Bhature is a popular North Indian combination of spiced chickpea curry and deep-fried bhature.",
@@ -193,7 +193,7 @@ const foodStories = {
     category: "North Indian Cuisine",
     eyebrow: "KASHMIR",
     name: "Rogan Josh",
-    image: "/images/food/north-india/rogan-josh.png",
+    image: "/images/food/north-india/rogan-josh.webp",
     tagline: "An aromatic Kashmiri curry of spices and tender meat.",
     description:
       "Rogan Josh is a celebrated Kashmiri preparation known for its aromatic spices, rich colour and tender meat.",
@@ -213,7 +213,7 @@ const foodStories = {
     category: "North Indian Cuisine",
     eyebrow: "RAJASTHAN",
     name: "Dal Baati Churma",
-    image: "/images/food/north-india/dal-baati-churma.png",
+    image: "/images/food/north-india/dal-baati-churma.webp",
     tagline: "A traditional Rajasthani meal built around baked baati and lentils.",
     description:
       "Dal Baati Churma is a traditional Rajasthani meal combining baked wheat baati, lentils and sweet churma.",
@@ -233,7 +233,7 @@ const foodStories = {
     category: "North Indian Cuisine",
     eyebrow: "NORTH INDIA",
     name: "Kadhi Pakora",
-    image: "/images/food/north-india/kadhi-pakora.png",
+    image: "/images/food/north-india/kadhi-pakora.webp",
     tagline: "Tangy yogurt curry paired with soft gram-flour fritters.",
     description:
       "Kadhi Pakora is a yogurt-based curry containing gram-flour fritters and is commonly served with rice.",
@@ -257,7 +257,7 @@ const foodStories = {
     category: "South Indian Cuisine",
     eyebrow: "SOUTH INDIA",
     name: "Masala Dosa",
-    image: "/images/food/south-india/masala-dosa.png",
+    image: "/images/food/south-india/masala-dosa.webp",
     tagline: "A crisp fermented crepe filled with spiced potato.",
     description:
       "Masala Dosa is a popular South Indian dish made from fermented rice and lentil batter and filled with a spiced potato mixture.",
@@ -277,7 +277,7 @@ const foodStories = {
     category: "South Indian Cuisine",
     eyebrow: "SOUTH INDIA",
     name: "Idli Sambar",
-    image: "/images/food/south-india/idli-sambar.png",
+    image: "/images/food/south-india/idli-sambar.webp",
     tagline: "Soft steamed rice cakes served with flavourful lentil stew.",
     description:
       "Idli is a soft steamed preparation made from fermented rice and lentil batter, traditionally served with sambar and chutneys.",
@@ -337,7 +337,7 @@ const foodStories = {
     category: "South Indian Cuisine",
     eyebrow: "TAMIL NADU",
     name: "Pongal",
-    image: "/images/food/south-india/pongal.png",
+    image: "/images/food/south-india/pongal.webp",
     tagline: "A comforting rice and lentil dish deeply connected with Tamil food culture.",
     description:
       "Pongal is a traditional Tamil dish prepared from rice and lentils and enjoyed in both everyday and festive forms.",
@@ -357,7 +357,7 @@ const foodStories = {
     category: "South Indian Cuisine",
     eyebrow: "KARNATAKA",
     name: "Mysore Pak",
-    image: "/images/food/south-india/mysore-pak.png",
+    image: "/images/food/south-india/mysore-pak.webp",
     tagline: "A rich traditional sweet made with gram flour, ghee and sugar.",
     description:
       "Mysore Pak is a famous Karnataka sweet known for its rich texture and combination of gram flour, ghee and sugar.",
@@ -381,7 +381,7 @@ const foodStories = {
     category: "West Indian Cuisine",
     eyebrow: "MAHARASHTRA",
     name: "Vada Pav",
-    image: "/images/food/west-india/vada-pav.png",
+    image: "/images/food/west-india/vada-pav.webp",
     tagline: "Mumbai's iconic street food built around a spiced potato fritter.",
     description:
       "Vada Pav consists of a spiced potato fritter placed inside a pav and served with chutneys and dry spices.",
@@ -401,7 +401,7 @@ const foodStories = {
     category: "West Indian Cuisine",
     eyebrow: "MAHARASHTRA",
     name: "Pav Bhaji",
-    image: "/images/food/west-india/pav-bhaji.jpeg",
+    image: "/images/food/west-india/pav-bhaji.webp",
     tagline: "A buttery vegetable preparation served with toasted pav.",
     description:
       "Pav Bhaji is a popular Maharashtrian dish consisting of a spiced vegetable mash served with buttered bread rolls.",
@@ -421,7 +421,7 @@ const foodStories = {
     category: "West Indian Cuisine",
     eyebrow: "GUJARAT",
     name: "Dhokla",
-    image: "/images/food/west-india/dhokla.jpeg",
+    image: "/images/food/west-india/dhokla.webp",
     tagline: "Soft, savoury and steamed with the distinctive flavours of Gujarat.",
     description:
       "Dhokla is a traditional Gujarati steamed preparation made using fermented batter and served with chutneys.",
@@ -441,7 +441,7 @@ const foodStories = {
     category: "West Indian Cuisine",
     eyebrow: "GUJARAT",
     name: "Undhiyu",
-    image: "/images/food/west-india/undhiyu.jpeg",
+    image: "/images/food/west-india/undhiyu.webp",
     tagline: "A hearty mixed-vegetable dish celebrating Gujarati seasonal produce.",
     description:
       "Undhiyu is a traditional Gujarati mixed-vegetable preparation made with seasonal vegetables, spices and herbs.",
@@ -461,7 +461,7 @@ const foodStories = {
     category: "West Indian Cuisine",
     eyebrow: "GOA",
     name: "Goan Fish Curry",
-    image: "/images/food/west-india/goan-fish-curry.jpeg",
+    image: "/images/food/west-india/goan-fish-curry.webp",
     tagline: "A coastal curry combining fish, coconut and tangy flavours.",
     description:
       "Goan fish curry is a celebrated coastal dish combining fish with coconut, spices and a distinctive tangy flavour.",
@@ -481,7 +481,7 @@ const foodStories = {
     category: "West Indian Cuisine",
     eyebrow: "MAHARASHTRA",
     name: "Puran Poli",
-    image: "/images/food/west-india/puran-poli.jpeg",
+    image: "/images/food/west-india/puran-poli.webp",
     tagline: "A festive sweet flatbread filled with lentils and jaggery.",
     description:
       "Puran Poli is a traditional sweet flatbread filled with a mixture of cooked lentils, jaggery and spices.",
@@ -505,7 +505,7 @@ const foodStories = {
     category: "Street Food",
     eyebrow: "ACROSS INDIA",
     name: "Pani Puri",
-    image: "/images/food/street-food/pani-puri.jpeg",
+    image: "/images/food/street-food/pani-puri.webp",
     tagline: "Crisp puris filled with a burst of spicy, tangy flavours.",
     description:
       "Pani Puri is one of India's most popular street foods, made with crisp hollow puris filled with spiced water, chutneys and other ingredients.",
@@ -525,7 +525,7 @@ const foodStories = {
     category: "Street Food",
     eyebrow: "PAN INDIA",
     name: "Samosa",
-    image: "/images/food/street-food/samosa.jpeg",
+    image: "/images/food/street-food/samosa.webp",
     tagline: "A crisp pastry filled with fragrant spices and comforting flavours.",
     description:
       "Samosa is a popular savoury snack made from a crisp pastry filled traditionally with spiced potatoes and peas.",
@@ -545,7 +545,7 @@ const foodStories = {
     category: "Street Food",
     eyebrow: "NORTH INDIA",
     name: "Aloo Tikki",
-    image: "/images/food/street-food/aloo-tikki.png",
+    image: "/images/food/street-food/aloo-tikki.webp",
     tagline: "Crispy potato patties layered with chutneys and spices.",
     description:
       "Aloo Tikki is a popular North Indian street snack made from spiced potato patties and served with chutneys and other toppings.",
@@ -565,7 +565,7 @@ const foodStories = {
     category: "Street Food",
     eyebrow: "KOLKATA",
     name: "Kathi Roll",
-    image: "/images/food/street-food/kathi-roll.jpeg",
+    image: "/images/food/street-food/kathi-roll.webp",
     tagline: "A Kolkata street food classic wrapped in flaky paratha.",
     description:
       "Kathi Roll is a popular Kolkata street food consisting of fillings wrapped inside a paratha or flatbread.",
@@ -585,7 +585,7 @@ const foodStories = {
     category: "Street Food",
     eyebrow: "MUMBAI",
     name: "Vada Pav",
-    image: "/images/food/street-food/vada-pav.png",
+    image: "/images/food/street-food/vada-pav.webp",
     tagline: "Mumbai's legendary street snack, simple, spicy and satisfying.",
     description:
       "Vada Pav combines a spiced potato fritter with pav, chutneys and dry spices to create one of Mumbai's most iconic street foods.",
@@ -605,7 +605,7 @@ const foodStories = {
     category: "Street Food",
     eyebrow: "WEST BENGAL",
     name: "Jhalmuri",
-    image: "/images/food/street-food/jhalmuri.jpeg",
+    image: "/images/food/street-food/jhalmuri.webp",
     tagline: "A crunchy Bengali snack packed with spice and freshness.",
     description:
       "Jhalmuri is a Bengali street snack made with puffed rice, spices, vegetables, chutneys and mustard oil.",

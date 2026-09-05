@@ -9,7 +9,7 @@ const cultureStories = {
     category: "Festivals & Celebrations",
     eyebrow: "NORTH INDIA",
     name: "Holi",
-    image: "/images/culture/festivals & celebrations/holi.jpeg",
+    image: "/images/culture/festivals & celebrations/holi.webp",
     tagline: "A vibrant celebration of colour, joy and togetherness.",
     description:
       "Holi is one of India's most vibrant festivals, celebrated with colours, music, traditional food and gatherings of family and friends.",
@@ -29,7 +29,7 @@ const cultureStories = {
     category: "Festivals & Celebrations",
     eyebrow: "PAN INDIA",
     name: "Diwali",
-    image: "/images/culture/festivals & celebrations/diwali.jpeg",
+    image: "/images/culture/festivals & celebrations/diwali.webp",
     tagline: "The festival of lights that fills homes with warmth and hope.",
     description:
       "Diwali is one of India's most widely celebrated festivals, marked by lamps, decorations, prayers, sweets and family gatherings.",
@@ -49,7 +49,7 @@ const cultureStories = {
     category: "Festivals & Celebrations",
     eyebrow: "WEST BENGAL",
     name: "Durga Puja",
-    image: "/images/culture/festivals & celebrations/durga.jpeg",
+    image: "/images/culture/festivals & celebrations/durga.webp",
     tagline: "A spectacular celebration of art, devotion and community.",
     description:
       "Durga Puja is a major cultural celebration in West Bengal, known for elaborate pandals, artistic idols, music and community gatherings.",
@@ -69,7 +69,7 @@ const cultureStories = {
     category: "Festivals & Celebrations",
     eyebrow: "KERALA",
     name: "Onam",
-    image: "/images/culture/festivals & celebrations/onam.jpeg",
+    image: "/images/culture/festivals & celebrations/onam.webp",
     tagline: "Kerala's harvest festival of flowers, food and togetherness.",
     description:
       "Onam is Kerala's celebrated harvest festival, bringing families and communities together through traditional food, decorations and cultural activities.",
@@ -89,7 +89,7 @@ const cultureStories = {
     category: "Festivals & Celebrations",
     eyebrow: "TAMIL NADU",
     name: "Pongal",
-    image: "/images/culture/festivals & celebrations/pongal.jpeg",
+    image: "/images/culture/festivals & celebrations/pongal.webp",
     tagline: "A harvest celebration honouring nature, farmers and family.",
     description:
       "Pongal is a major harvest festival of Tamil Nadu that expresses gratitude for nature, agriculture and prosperity.",
@@ -109,7 +109,7 @@ const cultureStories = {
     category: "Festivals & Celebrations",
     eyebrow: "ASSAM",
     name: "Bihu",
-    image: "/images/culture/festivals & celebrations/bihu.jpeg",
+    image: "/images/culture/festivals & celebrations/bihu.webp",
     tagline: "Assam's celebration of agriculture, music and community.",
     description:
       "Bihu represents an important part of Assamese cultural identity, combining agricultural traditions with music, dance, food and community celebrations.",
@@ -133,7 +133,7 @@ const cultureStories = {
     category: "Dance & Music",
     eyebrow: "TAMIL NADU",
     name: "Bharatanatyam",
-    image: "/images/culture/dance & music/bharatnatyam.jpeg",
+    image: "/images/culture/dance & music/bharatnatyam.webp",
     tagline: "A classical dance of precise movement and expressive storytelling.",
     description:
       "Bharatanatyam is one of India's major classical dance traditions, recognised for its precise movements, expressive gestures and rhythmic footwork.",
@@ -153,7 +153,7 @@ const cultureStories = {
     category: "Dance & Music",
     eyebrow: "NORTH INDIA",
     name: "Kathak",
-    image: "/images/culture/dance & music/kathak.jpeg",
+    image: "/images/culture/dance & music/kathak.webp",
     tagline: "Stories brought alive through rhythm, spins and expression.",
     description:
       "Kathak is a classical Indian dance tradition known for intricate footwork, rhythmic patterns, spins and storytelling.",
@@ -173,7 +173,7 @@ const cultureStories = {
     category: "Dance & Music",
     eyebrow: "KERALA",
     name: "Kathakali",
-    image: "/images/culture/dance & music/kathakali.jpeg",
+    image: "/images/culture/dance & music/kathakali.webp",
     tagline: "A dramatic theatre tradition of movement, colour and expression.",
     description:
       "Kathakali is a classical performance tradition from Kerala recognised for elaborate costumes, makeup, gestures and dramatic storytelling.",
@@ -193,7 +193,7 @@ const cultureStories = {
     category: "Dance & Music",
     eyebrow: "NORTH INDIA",
     name: "Hindustani Music",
-    image: "/images/culture/dance & music/hindustani.jpeg",
+    image: "/images/culture/dance & music/hindustani.webp",
     tagline: "A classical tradition built around raga, rhythm and improvisation.",
     description:
       "Hindustani classical music is a major musical tradition of North India, centred around melodic ragas, rhythm and improvisation.",
@@ -213,7 +213,7 @@ const cultureStories = {
     category: "Dance & Music",
     eyebrow: "SOUTH INDIA",
     name: "Carnatic Music",
-    image: "/images/culture/dance & music/carnatic.jpeg",
+    image: "/images/culture/dance & music/carnatic.webp",
     tagline: "A rich classical tradition of melody, composition and rhythm.",
     description:
       "Carnatic music is the classical music tradition of South India, known for structured compositions, intricate rhythms and devotional themes.",
@@ -233,7 +233,7 @@ const cultureStories = {
     category: "Dance & Music",
     eyebrow: "ASSAM",
     name: "Bihu Dance",
-    image: "/images/culture/dance & music/bihu.jpeg",
+    image: "/images/culture/dance & music/bihu.webp",
     tagline: "An energetic folk dance celebrating Assamese life and youth.",
     description:
       "Bihu Dance is an energetic Assamese folk dance traditionally associated with Bihu celebrations.",
@@ -257,7 +257,7 @@ const cultureStories = {
     category: "Traditional Clothing",
     eyebrow: "VARANASI, UTTAR PRADESH",
     name: "Banarasi Silk",
-    image: "/images/culture/clothing/banarasi.jpeg",
+    image: "/images/culture/clothing/banarasi.webp",
     tagline: "Luxurious silk woven with centuries of craftsmanship.",
     description:
       "Banarasi silk is a celebrated textile tradition from Varanasi, known for intricate weaving, rich colours and elaborate designs.",
@@ -277,7 +277,7 @@ const cultureStories = {
     category: "Traditional Clothing",
     eyebrow: "TAMIL NADU",
     name: "Kanchipuram Silk",
-    image: "/images/culture/clothing/kanchipuram.jpeg",
+    image: "/images/culture/clothing/kanchipuram.webp",
     tagline: "South India's celebrated silk tradition of colour and craftsmanship.",
     description:
       "Kanchipuram silk is known for richly coloured sarees, detailed borders and traditional weaving techniques.",
@@ -297,7 +297,7 @@ const cultureStories = {
     category: "Traditional Clothing",
     eyebrow: "PUNJAB",
     name: "Phulkari",
-    image: "/images/culture/clothing/phulkari.jpeg",
+    image: "/images/culture/clothing/phulkari.webp",
     tagline: "Colourful embroidery carrying the warmth of Punjabi tradition.",
     description:
       "Phulkari is a traditional embroidery style from Punjab, recognised for colourful floral patterns and detailed handwork.",
@@ -317,7 +317,7 @@ const cultureStories = {
     category: "Traditional Clothing",
     eyebrow: "RAJASTHAN & GUJARAT",
     name: "Bandhani",
-    image: "/images/culture/clothing/bandhani.jpeg",
+    image: "/images/culture/clothing/bandhani.webp",
     tagline: "A colourful tie-and-dye tradition of tiny patterns and vibrant colour.",
     description:
       "Bandhani is a traditional tie-and-dye textile technique that creates distinctive dotted and patterned designs.",
@@ -337,7 +337,7 @@ const cultureStories = {
     category: "Traditional Clothing",
     eyebrow: "KERALA",
     name: "Kasavu",
-    image: "/images/culture/clothing/kasavu.jpeg",
+    image: "/images/culture/clothing/kasavu.webp",
     tagline: "Kerala's elegant white-and-gold textile tradition.",
     description:
       "Kasavu is a traditional Kerala textile style recognised by its simple elegance, white or cream fabric and distinctive gold border.",
@@ -357,7 +357,7 @@ const cultureStories = {
     category: "Traditional Clothing",
     eyebrow: "KASHMIR",
     name: "Pashmina",
-    image: "/images/culture/clothing/paschmina.jpeg",
+    image: "/images/culture/clothing/paschmina.webp",
     tagline: "A fine textile tradition celebrated for softness and craftsmanship.",
     description:
       "Pashmina is a fine wool textile tradition associated with Kashmir and known for its softness, warmth and craftsmanship.",
@@ -381,7 +381,7 @@ const cultureStories = {
     category: "Art & Storytelling",
     eyebrow: "BIHAR",
     name: "Madhubani",
-    image: "/images/culture/art-storytelling/madhubani.png",
+    image: "/images/culture/art-storytelling/madhubani.webp",
     tagline: "A vibrant painting tradition where art becomes storytelling.",
     description:
       "Madhubani painting is a distinctive folk art tradition from Bihar, known for bold patterns, natural themes and storytelling.",
@@ -401,7 +401,7 @@ const cultureStories = {
     category: "Art & Storytelling",
     eyebrow: "MAHARASHTRA",
     name: "Warli",
-    image: "/images/culture/art-storytelling/warli.png",
+    image: "/images/culture/art-storytelling/warli.webp",
     tagline: "Simple geometric forms telling stories of tribal life.",
     description:
       "Warli is a tribal painting tradition known for simple geometric figures representing people, animals, nature and everyday activities.",
@@ -421,7 +421,7 @@ const cultureStories = {
     category: "Art & Storytelling",
     eyebrow: "ODISHA",
     name: "Pattachitra",
-    image: "/images/culture/art-storytelling/pattachitra.png",
+    image: "/images/culture/art-storytelling/pattachitra.webp",
     tagline: "Detailed traditional paintings rooted in stories and devotion.",
     description:
       "Pattachitra is a traditional painting style from Odisha known for detailed compositions, strong outlines and mythological themes.",
@@ -441,7 +441,7 @@ const cultureStories = {
     category: "Art & Storytelling",
     eyebrow: "SOUTH INDIA",
     name: "Kalamkari",
-    image: "/images/culture/art-storytelling/kalamkari.png",
+    image: "/images/culture/art-storytelling/kalamkari.webp",
     tagline: "Hand-drawn textile art inspired by stories and nature.",
     description:
       "Kalamkari is a traditional textile and painting tradition involving hand-drawn designs and naturally dyed fabrics.",
@@ -461,7 +461,7 @@ const cultureStories = {
     category: "Art & Storytelling",
     eyebrow: "JAIPUR, RAJASTHAN",
     name: "Blue Pottery",
-    image: "/images/culture/art-storytelling/blue-pottery.png",
+    image: "/images/culture/art-storytelling/blue-pottery.webp",
     tagline: "A distinctive craft known for delicate blue designs and glazed surfaces.",
     description:
       "Blue Pottery is a decorative craft strongly associated with Jaipur and recognised for its colourful glazed designs.",
@@ -481,7 +481,7 @@ const cultureStories = {
     category: "Art & Storytelling",
     eyebrow: "CENTRAL & EASTERN INDIA",
     name: "Dhokra",
-    image: "/images/culture/art-storytelling/dhokra.png",
+    image: "/images/culture/art-storytelling/dhokra.webp",
     tagline: "Ancient metal craftsmanship shaped through the lost-wax tradition.",
     description:
       "Dhokra is a traditional metal-casting craft known for handmade figures, decorative objects and distinctive textured surfaces.",
@@ -505,7 +505,7 @@ const cultureStories = {
     category: "Traditions & Lifestyle",
     eyebrow: "PAN INDIA",
     name: "Family Traditions",
-    image: "/images/culture/traditions-lifestyle/family.png",
+    image: "/images/culture/traditions-lifestyle/family.webp",
     tagline: "Family, rituals and celebrations at the heart of everyday life.",
     description:
       "Family traditions remain an important part of Indian social life, connecting generations through ceremonies, celebrations and shared customs.",
@@ -525,7 +525,7 @@ const cultureStories = {
     category: "Traditions & Lifestyle",
     eyebrow: "RURAL INDIA",
     name: "Village Life",
-    image: "/images/culture/traditions-lifestyle/village.png",
+    image: "/images/culture/traditions-lifestyle/village.webp",
     tagline: "Everyday life shaped by land, community and traditional knowledge.",
     description:
       "Village life continues to preserve agricultural practices, crafts, local customs and strong community connections across many parts of India.",
@@ -545,7 +545,7 @@ const cultureStories = {
     category: "Traditions & Lifestyle",
     eyebrow: "PAN INDIA",
     name: "Spiritual Traditions",
-    image: "/images/culture/traditions-lifestyle/spiritual.png",
+    image: "/images/culture/traditions-lifestyle/spiritual.webp",
     tagline: "Faith, reflection and rituals woven into everyday life.",
     description:
       "Spiritual traditions in India include pilgrimage, prayer, meditation, rituals and community practices across many regions and traditions.",
@@ -565,7 +565,7 @@ const cultureStories = {
     category: "Traditions & Lifestyle",
     eyebrow: "PAN INDIA",
     name: "Local Markets",
-    image: "/images/culture/traditions-lifestyle/markets.png",
+    image: "/images/culture/traditions-lifestyle/markets.webp",
     tagline: "Colourful spaces where food, craft and community meet.",
     description:
       "Traditional markets bring together food, textiles, crafts, spices and everyday community life.",
@@ -585,7 +585,7 @@ const cultureStories = {
     category: "Traditions & Lifestyle",
     eyebrow: "PAN INDIA",
     name: "Indian Hospitality",
-    image: "/images/culture/traditions-lifestyle/hospitality.png",
+    image: "/images/culture/traditions-lifestyle/hospitality.webp",
     tagline: "The tradition of welcoming guests with warmth and generosity.",
     description:
       "Welcoming guests and sharing food are deeply valued traditions across many Indian communities.",
@@ -605,7 +605,7 @@ const cultureStories = {
     category: "Traditions & Lifestyle",
     eyebrow: "ACROSS INDIA",
     name: "Regional Identity",
-    image: "/images/culture/traditions-lifestyle/regional.png",
+    image: "/images/culture/traditions-lifestyle/regional.webp",
     tagline: "Many regional identities forming one remarkably diverse India.",
     description:
       "Language, clothing, cuisine, music and customs create distinctive cultural identities across India's regions.",
@@ -629,7 +629,7 @@ const cultureStories = {
     category: "Languages & Literature",
     eyebrow: "NORTH & CENTRAL INDIA",
     name: "Hindi Literature",
-    image: "/images/culture/languages-literature/hindi.png",
+    image: "/images/culture/languages-literature/hindi.webp",
     tagline: "A rich literary tradition of poetry, stories, novels and ideas.",
     description:
       "Hindi literature represents a wide literary tradition spanning poetry, novels, short stories, theatre and modern writing.",
@@ -649,7 +649,7 @@ const cultureStories = {
     category: "Languages & Literature",
     eyebrow: "WEST BENGAL & EASTERN INDIA",
     name: "Bengali Literature",
-    image: "/images/culture/languages-literature/bengali.png",
+    image: "/images/culture/languages-literature/bengali.webp",
     tagline: "A celebrated literary tradition of poetry, fiction, theatre and song.",
     description:
       "Bengali literature has made major contributions to poetry, novels, theatre, songs and intellectual writing.",
@@ -669,7 +669,7 @@ const cultureStories = {
     category: "Languages & Literature",
     eyebrow: "TAMIL NADU",
     name: "Tamil Literature",
-    image: "/images/culture/languages-literature/tamil.png",
+    image: "/images/culture/languages-literature/tamil.webp",
     tagline: "An ancient literary tradition with a living cultural presence.",
     description:
       "Tamil literature is one of India's major classical literary traditions, with a long history of poetry, devotional works, epics and modern writing.",
@@ -689,7 +689,7 @@ const cultureStories = {
     category: "Languages & Literature",
     eyebrow: "ANCIENT INDIA",
     name: "Sanskrit Literature",
-    image: "/images/culture/languages-literature/sanskrit.png",
+    image: "/images/culture/languages-literature/sanskrit.webp",
     tagline: "An ancient literary tradition at the heart of India's intellectual heritage.",
     description:
       "Sanskrit literature forms a major part of India's classical intellectual heritage, including philosophical, poetic, religious and scholarly works.",
@@ -709,7 +709,7 @@ const cultureStories = {
     category: "Languages & Literature",
     eyebrow: "NORTH INDIA",
     name: "Urdu Poetry",
-    image: "/images/culture/languages-literature/urdu.png",
+    image: "/images/culture/languages-literature/urdu.webp",
     tagline: "A poetic tradition celebrated for expression, emotion and literary elegance.",
     description:
       "Urdu poetry is a major part of India's literary culture, particularly known for forms such as ghazal and nazm.",
@@ -729,7 +729,7 @@ const cultureStories = {
     category: "Languages & Literature",
     eyebrow: "ACROSS INDIA",
     name: "Folk Storytelling",
-    image: "/images/culture/languages-literature/folk.png",
+    image: "/images/culture/languages-literature/folk.webp",
     tagline: "Stories passed from generation to generation through voice and memory.",
     description:
       "Folk storytelling preserves local legends, myths, values, beliefs and community memories through oral traditions.",

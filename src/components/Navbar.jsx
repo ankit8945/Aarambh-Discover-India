@@ -1,11 +1,13 @@
 import { NavLink } from "react-router-dom";
 import { useState } from "react";
 import { useLanguage } from "../context/LanguageContext";
+import { Menu, X } from "lucide-react";
 
 export default function Navbar() {
   const { t, language, setLanguage } = useLanguage();
 
   const [languageOpen, setLanguageOpen] = useState(false);
+  const [mobileOpen, setMobileOpen] = useState(false);
 
   // =====================================================
   // LANGUAGE CHANGE
@@ -24,7 +26,7 @@ export default function Navbar() {
       ===================================================== */}
 
       <NavLink to="/" className="logo">
-        <img src="/images/logo.png" alt="Aarambh" />
+        <img src="/images/logo.webp" alt="Aarambh" />
       </NavLink>
 
 
@@ -300,6 +302,8 @@ export default function Navbar() {
           RIGHT SIDE ACTIONS
       ===================================================== */}
 
+      <button className="mobile-menu-button" aria-label={mobileOpen ? "Close menu" : "Open menu"} aria-expanded={mobileOpen} onClick={() => setMobileOpen(v => !v)}>{mobileOpen ? <X size={23}/> : <Menu size={23}/>}</button>
+
       <div className="navActions">
 
         {/* LIVING HERITAGE */}
@@ -440,6 +444,21 @@ export default function Navbar() {
 
         </div>
 
+      </div>
+
+      <div className={`mobile-drawer ${mobileOpen ? "open" : ""}`} aria-hidden={!mobileOpen}>
+        <div className="mobile-drawer-links">
+          <NavLink onClick={()=>setMobileOpen(false)} to="/">{t.nav.home || "Home"}</NavLink>
+          <NavLink onClick={()=>setMobileOpen(false)} to="/explore">{t.nav.explore || "Explore"}</NavLink>
+          <NavLink onClick={()=>setMobileOpen(false)} to="/heritage">{t.nav.heritage}</NavLink>
+          <NavLink onClick={()=>setMobileOpen(false)} to="/culture">{t.nav.culture}</NavLink>
+          <NavLink onClick={()=>setMobileOpen(false)} to="/food">{t.nav.food}</NavLink>
+          <NavLink onClick={()=>setMobileOpen(false)} to="/crafts">{t.nav.crafts}</NavLink>
+          <NavLink onClick={()=>setMobileOpen(false)} to="/living-heritage">{t.nav.livingHeritage}</NavLink>
+          <NavLink onClick={()=>setMobileOpen(false)} to="/community">{t.nav.community}</NavLink>
+          <NavLink onClick={()=>setMobileOpen(false)} to="/planner">{t.nav.planTrip}</NavLink>
+        </div>
+        <div className="mobile-language-grid">{["en","hi","bn","ta","te","mr","fr","es"].map(code=><button key={code} className={language===code?"active":""} onClick={()=>{setLanguage(code);setMobileOpen(false)}}>{code.toUpperCase()}</button>)}</div>
       </div>
 
     </header>

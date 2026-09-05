@@ -7,7 +7,7 @@ export default function HiddenGems() {
       name: "Tawang Monastery",
       slug: "tawang-monastery",
       state: "Arunachal Pradesh",
-      image: "/images/heritage/hiddengems/tawang.png",
+      image: "/images/heritage/hiddengems/tawang.webp",
       description:
         "A magnificent Himalayan monastery surrounded by dramatic mountains, peaceful valleys and rich Buddhist traditions.",
     },
@@ -15,7 +15,7 @@ export default function HiddenGems() {
       name: "Majuli",
       slug: "majuli",
       state: "Assam",
-      image: "/images/heritage/hiddengems/majuli.png",
+      image: "/images/heritage/hiddengems/majuli.webp",
       description:
         "A culturally rich river island known for its monasteries, traditional arts, vibrant festivals and Assamese heritage.",
     },
@@ -23,7 +23,7 @@ export default function HiddenGems() {
       name: "Champaner-Pavagadh",
       slug: "champaner-pavagadh",
       state: "Gujarat",
-      image: "/images/heritage/hiddengems/champaner.png",
+      image: "/images/heritage/hiddengems/champaner.webp",
       description:
         "An extraordinary archaeological landscape where ancient temples, mosques, forts and stepwells reveal centuries of history.",
     },
@@ -31,7 +31,7 @@ export default function HiddenGems() {
       name: "Dholavira",
       slug: "dholavira",
       state: "Gujarat",
-      image: "/images/heritage/hiddengems/dholavira.png",
+      image: "/images/heritage/hiddengems/dholavira.webp",
       description:
         "An ancient Harappan city in the Rann of Kutch showcasing remarkable urban planning, water systems and archaeological remains.",
     },
@@ -39,7 +39,7 @@ export default function HiddenGems() {
       name: "Mandu",
       slug: "mandu",
       state: "Madhya Pradesh",
-      image: "/images/heritage/hiddengems/mandu.png",
+      image: "/images/heritage/hiddengems/mandu.webp",
       description:
         "A historic hilltop city filled with magnificent palaces, gateways, mosques and romantic stories from medieval India.",
     },
@@ -47,7 +47,7 @@ export default function HiddenGems() {
       name: "Chettinad",
       slug: "chettinad",
       state: "Tamil Nadu",
-      image: "/images/heritage/hiddengems/chetinad.png",
+      image: "/images/heritage/hiddengems/chetinad.webp",
       description:
         "A fascinating region famous for grand mansions, distinctive architecture, traditional cuisine and the heritage of the Chettiar community.",
     },

@@ -7,7 +7,7 @@ export default function Monuments() {
       name: "Taj Mahal",
       slug: "taj-mahal",
       state: "Uttar Pradesh",
-      image: "/images/tajmahal.png",
+      image: "/images/tajmahal.webp",
       description:
         "An iconic symbol of love and one of India's most celebrated monuments.",
     },
@@ -15,7 +15,7 @@ export default function Monuments() {
       name: "Hawa Mahal",
       slug: "hawa-mahal",
       state: "Rajasthan",
-      image: "/images/hawamahal.png",
+      image: "/images/hawamahal.webp",
       description:
         "Jaipur's famous Palace of Winds, known for its distinctive pink facade.",
     },
@@ -23,7 +23,7 @@ export default function Monuments() {
       name: "Victoria Memorial",
       slug: "victoria-memorial",
       state: "West Bengal",
-      image: "/images/victoria.png",
+      image: "/images/victoria.webp",
       description:
         "A magnificent marble landmark surrounded by gardens in the heart of Kolkata.",
     },
@@ -31,7 +31,7 @@ export default function Monuments() {
       name: "Konark Sun Temple",
       slug: "konark-sun-temple",
       state: "Odisha",
-      image: "/images/konark.png",
+      image: "/images/konark.webp",
       description:
         "A remarkable temple complex celebrated for its stone architecture and carvings.",
     },
@@ -39,7 +39,7 @@ export default function Monuments() {
       name: "Sanchi Stupa",
       slug: "sanchi-stupa",
       state: "Madhya Pradesh",
-      image: "/images/sanchi.png",
+      image: "/images/sanchi.webp",
       description:
         "One of India's oldest surviving Buddhist monuments.",
     },
@@ -47,7 +47,7 @@ export default function Monuments() {
       name: "Charminar",
       slug: "charminar",
       state: "Telangana",
-      image: "/images/charminar.png",
+      image: "/images/charminar.webp",
       description:
         "Hyderabad's iconic four-minaret monument and enduring city landmark.",
     },

@@ -53,7 +53,7 @@ export const destinations = [
     ],
     short:
       "Ancient ghats, sacred traditions, Banarasi silk, classical music and one of India's oldest living cultures.",
-    image: "/images/varanasi.png",
+    image: "/images/varanasi.webp",
   },
 
   // =====================================================
@@ -119,7 +119,7 @@ export const destinations = [
     ],
     short:
       "Forts, palaces, Rajput traditions, colourful crafts, royal cuisine and the vibrant culture of Rajasthan.",
-    image: "/images/jaipur.png",
+    image: "/images/jaipur.webp",
   },
 
   // =====================================================
@@ -174,7 +174,7 @@ export const destinations = [
     ],
     short:
       "The Taj Mahal, Mughal architecture, marble craftsmanship and a rich culinary tradition shaped by Mughal culture.",
-    image: "/images/agra.png",
+    image: "/images/agra.webp",
   },
 
   // =====================================================
@@ -243,7 +243,7 @@ export const destinations = [
     ],
     short:
       "Colonial architecture, Bengali literature, Durga Puja, art, music and one of India's most distinctive food cultures.",
-    image: "/images/kolkata.png",
+    image: "/images/kolkata.webp",
   },
 
   // =====================================================
@@ -315,7 +315,7 @@ export const destinations = [
     ],
     short:
       "Backwaters, Kathakali, Ayurveda, traditional festivals, handloom crafts and a rich coconut-and-spice based cuisine.",
-    image: "/images/kerala.png",
+    image: "/images/kerala.webp",
   },
 
   // =====================================================
@@ -379,7 +379,7 @@ export const destinations = [
     ],
     short:
       "Intricate Chandela temple architecture, medieval sculptures, classical dance traditions and Bundelkhandi culture.",
-    image: "/images/khajuraho.png",
+    image: "/images/khajuraho.webp",
   },
 
   // =====================================================
@@ -410,7 +410,7 @@ export const destinations = [
     ],
     short:
       "A timeless symbol of love and one of India's greatest masterpieces of Mughal architecture.",
-    image: "/images/tajmahal.png",
+    image: "/images/tajmahal.webp",
   },
 
   {
@@ -432,7 +432,7 @@ export const destinations = [
     ],
     short:
       "Jaipur's iconic Palace of Winds, famous for its pink facade and intricate windows.",
-    image: "/images/hawamahal.png",
+    image: "/images/hawamahal.webp",
   },
 
   {
@@ -455,7 +455,7 @@ export const destinations = [
     ],
     short:
       "A magnificent marble landmark surrounded by gardens in the heart of Kolkata.",
-    image: "/images/victoria.png",
+    image: "/images/victoria.webp",
   },
 
   {
@@ -480,7 +480,7 @@ export const destinations = [
     ],
     short:
       "A monumental stone chariot dedicated to the Sun, celebrated for its extraordinary carvings.",
-    image: "/images/konark.png",
+    image: "/images/konark.webp",
   },
 
   {
@@ -505,7 +505,7 @@ export const destinations = [
     ],
     short:
       "One of India's oldest surviving Buddhist monuments, known for its ancient stupa and carved gateways.",
-    image: "/images/sanchi.png",
+    image: "/images/sanchi.webp",
   },
 
   {
@@ -527,7 +527,7 @@ export const destinations = [
     ],
     short:
       "Hyderabad's iconic four-minaret monument and one of India's most recognisable historic landmarks.",
-    image: "/images/charminar.png",
+    image: "/images/charminar.webp",
   },
 
   // =====================================================
@@ -556,7 +556,7 @@ export const destinations = [
     ],
     short:
       "A magnificent hill fort known for its grand courtyards, artistic architecture and royal history.",
-    image: "/images/amber.png",
+    image: "/images/amber.webp",
   },
 
   {
@@ -580,7 +580,7 @@ export const destinations = [
     ],
     short:
       "A monumental Mughal fort and one of Delhi's most important historic landmarks.",
-    image: "/images/redfort.png",
+    image: "/images/redfort.webp",
   },
 
   {
@@ -604,7 +604,7 @@ export const destinations = [
     ],
     short:
       "A majestic fortress rising above Jodhpur and showcasing the grandeur of Rajput architecture.",
-    image: "/images/Mehrangarh.png",
+    image: "/images/Mehrangarh.webp",
   },
 
   {
@@ -629,7 +629,7 @@ export const destinations = [
     ],
     short:
       "A spectacular royal palace celebrated for its grand architecture, interiors and illuminated evenings.",
-    image: "/images/mysore.png",
+    image: "/images/mysore.webp",
   },
 
   {
@@ -656,7 +656,7 @@ export const destinations = [
     ],
     short:
       "One of India's largest forts, carrying stories of Rajput courage, sacrifice and history.",
-    image: "/images/chittorgarh.png",
+    image: "/images/chittorgarh.webp",
   },
 
   {
@@ -679,7 +679,7 @@ export const destinations = [
     ],
     short:
       "A magnificent royal palace complex overlooking Lake Pichola and reflecting Udaipur's Mewar heritage.",
-    image: "/images/citypalace.png",
+    image: "/images/citypalace.webp",
   },
 
   // =====================================================
@@ -709,7 +709,7 @@ export const destinations = [
     ],
     short:
       "One of India's most revered temples, located in the spiritual heart of Varanasi.",
-    image: "/images/kashi.png",
+    image: "/images/kashi.webp",
   },
 
   {
@@ -734,7 +734,7 @@ export const destinations = [
     ],
     short:
       "A sacred temple in Puri renowned for its traditions, architecture and famous Rath Yatra.",
-    image: "/images/jagannath.png",
+    image: "/images/jagannath.webp",
   },
 
   {
@@ -758,7 +758,7 @@ export const destinations = [
     ],
     short:
       "A spectacular temple complex famous for its colourful towers and intricate sculptures.",
-    image: "/images/madurai.png",
+    image: "/images/madurai.webp",
   },
 
   {
@@ -782,7 +782,7 @@ export const destinations = [
     ],
     short:
       "An ancient Himalayan temple surrounded by dramatic mountains and sacred landscapes.",
-    image: "/images/kedarnath.png",
+    image: "/images/kedarnath.webp",
   },
 
   {
@@ -809,7 +809,7 @@ export const destinations = [
     ],
     short:
       "A masterpiece of Chola architecture known for its monumental scale and historic significance.",
-    image: "/images/thanjavur.png",
+    image: "/images/thanjavur.webp",
   },
 
   // =====================================================
@@ -838,7 +838,7 @@ export const destinations = [
     ],
     short:
       "The City of Lakes, known for its palaces, lakes and elegant Rajput heritage.",
-    image: "/images/udaipur.png",
+    image: "/images/udaipur.webp",
   },
 
   {
@@ -863,7 +863,7 @@ export const destinations = [
     ],
     short:
       "A royal city known for its magnificent palace, traditional celebrations and cultural heritage.",
-    image: "/images/mysore.png",
+    image: "/images/mysore.webp",
   },
 
   // =====================================================
@@ -894,7 +894,7 @@ export const destinations = [
     ],
     short:
       "Ancient rock-cut caves known for their Buddhist paintings, sculptures and remarkable craftsmanship.",
-    image: "/images/ajanta.png",
+    image: "/images/ajanta.webp",
   },
 
   {
@@ -922,6 +922,6 @@ export const destinations = [
     ],
     short:
       "A magnificent complex of Buddhist, Hindu and Jain rock-cut monuments.",
-    image: "/images/ellora.png",
+    image: "/images/ellora.webp",
   },
 ];

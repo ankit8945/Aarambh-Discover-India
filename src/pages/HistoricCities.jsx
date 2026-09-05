@@ -7,7 +7,7 @@ export default function HistoricCities() {
       name: "Varanasi",
       slug: "varanasi",
       state: "Uttar Pradesh",
-      image: "/images/varanasi.png",
+      image: "/images/varanasi.webp",
       description:
         "One of the world's oldest living cities, known for its ghats, temples and spiritual traditions.",
     },
@@ -15,7 +15,7 @@ export default function HistoricCities() {
       name: "Jaipur",
       slug: "jaipur",
       state: "Rajasthan",
-      image: "/images/jaipur.png",
+      image: "/images/jaipur.webp",
       description:
         "The Pink City, celebrated for its royal architecture, colourful streets and historic palaces.",
     },
@@ -23,7 +23,7 @@ export default function HistoricCities() {
       name: "Agra",
       slug: "agra",
       state: "Uttar Pradesh",
-      image: "/images/agra.png",
+      image: "/images/agra.webp",
       description:
         "A historic Mughal city famous for the Taj Mahal, Agra Fort and its rich architectural heritage.",
     },
@@ -31,7 +31,7 @@ export default function HistoricCities() {
       name: "Kolkata",
       slug: "kolkata",
       state: "West Bengal",
-      image: "/images/kolkata.png",
+      image: "/images/kolkata.webp",
       description:
         "A city of colonial architecture, literature, art and cultural traditions.",
     },
@@ -39,7 +39,7 @@ export default function HistoricCities() {
       name: "Udaipur",
       slug: "udaipur",
       state: "Rajasthan",
-      image: "/images/udaipur.png",
+      image: "/images/udaipur.webp",
       description:
         "The City of Lakes, known for its palaces, lakes and elegant Rajput heritage.",
     },
@@ -47,7 +47,7 @@ export default function HistoricCities() {
       name: "Mysore",
       slug: "mysore",
       state: "Karnataka",
-      image: "/images/mysore.png",
+      image: "/images/mysore.webp",
       description:
         "A royal city known for its magnificent palace, traditional celebrations and cultural heritage.",
     },

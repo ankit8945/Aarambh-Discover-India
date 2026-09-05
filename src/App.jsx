@@ -3,6 +3,8 @@ import { Routes, Route, useLocation } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import AutoTranslate from "./components/AutoTranslate";
+import MapLocation from "./components/MapLocation";
 
 // =========================================================
 // MAIN PAGES
@@ -17,6 +19,7 @@ import MapPage from "./pages/MapPage";
 import Saved from "./pages/Saved";
 import LivingHeritage from "./pages/LivingHeritage";
 import Community from "./pages/Community";
+import Profile from "./pages/Profile";
 
 // =========================================================
 // HERITAGE CATEGORY PAGES
@@ -87,12 +90,30 @@ function ScrollToTop() {
 // APP
 // =========================================================
 
+function RouteLocationMap() {
+  const { pathname } = useLocation();
+  if (["/", "/explore", "/community", "/saved", "/profile"].includes(pathname)) return null;
+  const raw = decodeURIComponent(pathname.split("/").filter(Boolean).pop() || "India").replace(/-/g, " ");
+  const title = raw.replace(/\b\w/g, (c) => c.toUpperCase());
+  return <MapLocation name={title} description="Discover the location, region and cultural context of this place." />;
+}
+
 export default function App() {
+  useEffect(() => {
+    const onError = (event) => {
+      const img = event.target;
+      if (img?.tagName === "IMG" && !img.dataset.fallback) { img.dataset.fallback = "1"; img.src = "/images/placeholder.svg"; }
+    };
+    window.addEventListener("error", onError, true);
+    return () => window.removeEventListener("error", onError, true);
+  }, []);
+
   return (
     <>
       <ScrollToTop />
 
       <Navbar />
+      <AutoTranslate />
 
       <Routes>
 
@@ -149,6 +170,8 @@ export default function App() {
           path="/community"
           element={<Community />}
         />
+
+        <Route path="/profile" element={<Profile />} />
 
 
         {/* =================================================
@@ -360,6 +383,7 @@ export default function App() {
 
       </Routes>
 
+      <RouteLocationMap />
       <Footer />
     </>
   );

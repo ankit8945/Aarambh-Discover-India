@@ -1,4 +1,6 @@
 import { useState } from "react";
+import SafetyIntelligence from "../components/SafetyIntelligence";
+import MapLocation from "../components/MapLocation";
 
 const interests = [
   {
@@ -362,6 +364,11 @@ export default function Planner() {
             <span>→</span>
           </button>
         </div>
+      </div>
+
+      <div className="planner-intelligence">
+        <SafetyIntelligence destination={destination || "Coorg"} />
+        <MapLocation name={destination || "Coorg"} description="Your selected destination on an interactive OpenStreetMap view." />
       </div>
 
       {/* RESULT */}

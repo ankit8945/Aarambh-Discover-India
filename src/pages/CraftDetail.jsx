@@ -13,7 +13,7 @@ const craftCategories = {
         name: "Blue Pottery",
         slug: "blue-pottery",
         region: "Rajasthan",
-        image: "/images/crafts/pottery/blue-pottery.png",
+        image: "/images/crafts/pottery/blue-pottery.webp",
         description:
           "A distinctive decorative pottery tradition known for colourful glazed surfaces and intricate floral and geometric designs.",
       },
@@ -21,7 +21,7 @@ const craftCategories = {
         name: "Terracotta",
         slug: "terracotta",
         region: "Across India",
-        image: "/images/crafts/pottery/terracotta.png",
+        image: "/images/crafts/pottery/terracotta.webp",
         description:
           "Traditional fired clay craft used to create pottery, sculptures, lamps and decorative objects.",
       },
@@ -29,7 +29,7 @@ const craftCategories = {
         name: "Khurja Pottery",
         slug: "khurja-pottery",
         region: "Uttar Pradesh",
-        image: "/images/crafts/pottery/khurja.png",
+        image: "/images/crafts/pottery/khurja.webp",
         description:
           "A celebrated pottery tradition known for colourful ceramic vessels, painted patterns and glazed surfaces.",
       },
@@ -37,7 +37,7 @@ const craftCategories = {
         name: "Bankura Horse",
         slug: "bankura-horse",
         region: "West Bengal",
-        image: "/images/crafts/pottery/bankura.png",
+        image: "/images/crafts/pottery/bankura.webp",
         description:
           "A famous terracotta craft of Bengal recognised for its stylised horse figures and distinctive form.",
       },
@@ -45,7 +45,7 @@ const craftCategories = {
         name: "Longpi Pottery",
         slug: "longpi-pottery",
         region: "Manipur",
-        image: "/images/crafts/pottery/longpi.png",
+        image: "/images/crafts/pottery/longpi.webp",
         description:
           "A traditional pottery style from Manipur made using distinctive natural materials and handcrafting techniques.",
       },
@@ -53,7 +53,7 @@ const craftCategories = {
         name: "Black Pottery",
         slug: "black-pottery",
         region: "Uttar Pradesh",
-        image: "/images/crafts/pottery/black-pottery.png",
+        image: "/images/crafts/pottery/black-pottery.webp",
         description:
           "Traditional black pottery known for its dark polished surface and detailed decorative patterns.",
       },
@@ -71,7 +71,7 @@ const craftCategories = {
         name: "Banarasi Weaving",
         slug: "banarasi-weaving",
         region: "Uttar Pradesh",
-        image: "/images/crafts/textiles/banarasi.png",
+        image: "/images/crafts/textiles/banarasi.webp",
         description:
           "A luxurious weaving tradition from Varanasi known for intricate patterns, silk fabrics and detailed designs.",
       },
@@ -79,7 +79,7 @@ const craftCategories = {
         name: "Kanjivaram Weaving",
         slug: "kanjivaram-weaving",
         region: "Tamil Nadu",
-        image: "/images/crafts/textiles/kanjivaram.png",
+        image: "/images/crafts/textiles/kanjivaram.webp",
         description:
           "A celebrated South Indian silk weaving tradition known for rich colours and elaborate borders.",
       },
@@ -87,7 +87,7 @@ const craftCategories = {
         name: "Phulkari Embroidery",
         slug: "phulkari-embroidery",
         region: "Punjab",
-        image: "/images/crafts/textiles/phulkari.png",
+        image: "/images/crafts/textiles/phulkari.webp",
         description:
           "A vibrant embroidery tradition featuring colourful floral patterns and detailed handwork.",
       },
@@ -95,7 +95,7 @@ const craftCategories = {
         name: "Chikankari",
         slug: "chikankari",
         region: "Uttar Pradesh",
-        image: "/images/crafts/textiles/chikankari.png",
+        image: "/images/crafts/textiles/chikankari.webp",
         description:
           "A delicate embroidery tradition from Lucknow known for elegant patterns and fine hand stitching.",
       },
@@ -103,7 +103,7 @@ const craftCategories = {
         name: "Ikat",
         slug: "ikat",
         region: "Odisha & Telangana",
-        image: "/images/crafts/textiles/ikat.png",
+        image: "/images/crafts/textiles/ikat.webp",
         description:
           "A resist-dyeing and weaving technique that creates distinctive geometric and blurred patterns.",
       },
@@ -111,7 +111,7 @@ const craftCategories = {
         name: "Pochampally",
         slug: "pochampally",
         region: "Telangana",
-        image: "/images/crafts/textiles/pochampally.png",
+        image: "/images/crafts/textiles/pochampally.webp",
         description:
           "A renowned handloom tradition known for colourful Ikat textiles and geometric patterns.",
       },
@@ -129,7 +129,7 @@ const craftCategories = {
         name: "Madhubani",
         slug: "madhubani",
         region: "Bihar",
-        image: "/images/crafts/folk-art/madhubani.png",
+        image: "/images/crafts/folk-art/madhubani.webp",
         description:
           "A vibrant folk painting tradition known for bold lines, geometric patterns and themes from nature and mythology.",
       },
@@ -137,7 +137,7 @@ const craftCategories = {
         name: "Warli",
         slug: "warli",
         region: "Maharashtra",
-        image: "/images/crafts/folk-art/warli.png",
+        image: "/images/crafts/folk-art/warli.webp",
         description:
           "A tribal art tradition using simple geometric figures to depict community life, nature and celebrations.",
       },
@@ -145,7 +145,7 @@ const craftCategories = {
         name: "Pattachitra",
         slug: "pattachitra",
         region: "Odisha",
-        image: "/images/crafts/folk-art/pattachitra.png",
+        image: "/images/crafts/folk-art/pattachitra.webp",
         description:
           "A detailed traditional painting style known for strong outlines and mythological storytelling.",
       },
@@ -153,7 +153,7 @@ const craftCategories = {
         name: "Gond Art",
         slug: "gond-art",
         region: "Madhya Pradesh",
-        image: "/images/crafts/folk-art/gond.png",
+        image: "/images/crafts/folk-art/gond.webp",
         description:
           "A colourful tribal art tradition featuring nature, animals and intricate patterns.",
       },
@@ -161,7 +161,7 @@ const craftCategories = {
         name: "Kalamkari",
         slug: "kalamkari",
         region: "South India",
-        image: "/images/crafts/folk-art/kalamkari.png",
+        image: "/images/crafts/folk-art/kalamkari.webp",
         description:
           "A traditional textile art involving hand-drawn designs, natural dyes and narrative themes.",
       },
@@ -169,7 +169,7 @@ const craftCategories = {
         name: "Phad Painting",
         slug: "phad-painting",
         region: "Rajasthan",
-        image: "/images/crafts/folk-art/phad.png",
+        image: "/images/crafts/folk-art/phad.webp",
         description:
           "A traditional scroll-painting style used to visually narrate stories of local heroes and traditions.",
       },
@@ -187,7 +187,7 @@ const craftCategories = {
         name: "Kondapalli Toys",
         slug: "kondapalli-toys",
         region: "Andhra Pradesh",
-        image: "/images/crafts/woodcraft/kondapalli.png",
+        image: "/images/crafts/woodcraft/kondapalli.webp",
         description:
           "Lightweight wooden toys traditionally carved and painted by artisans of Kondapalli.",
       },
@@ -195,7 +195,7 @@ const craftCategories = {
         name: "Channapatna Toys",
         slug: "channapatna-toys",
         region: "Karnataka",
-        image: "/images/crafts/woodcraft/channapatna.png",
+        image: "/images/crafts/woodcraft/channapatna.webp",
         description:
           "Colourful wooden toys known for smooth shapes, traditional craftsmanship and natural finishes.",
       },
@@ -203,7 +203,7 @@ const craftCategories = {
         name: "Saharanpur Woodcraft",
         slug: "saharanpur-woodcraft",
         region: "Uttar Pradesh",
-        image: "/images/crafts/woodcraft/saharanpur.png",
+        image: "/images/crafts/woodcraft/saharanpur.webp",
         description:
           "Intricately carved wooden furniture and decorative objects made by skilled artisans.",
       },
@@ -211,7 +211,7 @@ const craftCategories = {
         name: "Rajasthan Wood Carving",
         slug: "rajasthan-wood-carving",
         region: "Rajasthan",
-        image: "/images/crafts/woodcraft/rajasthan.png",
+        image: "/images/crafts/woodcraft/rajasthan.webp",
         description:
           "Traditional carving techniques used to create furniture, doors, panels and decorative objects.",
       },
@@ -219,7 +219,7 @@ const craftCategories = {
         name: "Kerala Wood Carving",
         slug: "kerala-wood-carving",
         region: "Kerala",
-        image: "/images/crafts/woodcraft/kerala.png",
+        image: "/images/crafts/woodcraft/kerala.webp",
         description:
           "A traditional craft featuring detailed carving inspired by architecture, mythology and nature.",
       },
@@ -227,7 +227,7 @@ const craftCategories = {
         name: "Wooden Masks",
         slug: "wooden-masks",
         region: "Across India",
-        image: "/images/crafts/woodcraft/masks.png",
+        image: "/images/crafts/woodcraft/masks.webp",
         description:
           "Hand-carved masks used in performances, rituals and decorative traditions across different regions.",
       },
@@ -245,7 +245,7 @@ const craftCategories = {
         name: "Dhokra",
         slug: "dhokra",
         region: "Central & Eastern India",
-        image: "/images/crafts/jewellery/dhokra.png",
+        image: "/images/crafts/jewellery/dhokra.webp",
         description:
           "An ancient metal-casting tradition known for handcrafted figures and textured decorative objects.",
       },
@@ -253,7 +253,7 @@ const craftCategories = {
         name: "Kundan",
         slug: "kundan",
         region: "Rajasthan",
-        image: "/images/crafts/jewellery/kundan.png",
+        image: "/images/crafts/jewellery/kundan.webp",
         description:
           "A traditional jewellery technique known for carefully set gemstones and elaborate ornamentation.",
       },
@@ -261,7 +261,7 @@ const craftCategories = {
         name: "Meenakari",
         slug: "meenakari",
         region: "Rajasthan",
-        image: "/images/crafts/jewellery/meenakari.png",
+        image: "/images/crafts/jewellery/meenakari.webp",
         description:
           "A decorative metalwork tradition involving colourful enamel designs applied to jewellery and objects.",
       },
@@ -269,7 +269,7 @@ const craftCategories = {
         name: "Thewa",
         slug: "thewa",
         region: "Rajasthan",
-        image: "/images/crafts/jewellery/thewa.png",
+        image: "/images/crafts/jewellery/thewa.webp",
         description:
           "A distinctive jewellery craft combining intricate gold work with coloured glass.",
       },
@@ -277,7 +277,7 @@ const craftCategories = {
         name: "Bidriware",
         slug: "bidriware",
         region: "Karnataka",
-        image: "/images/crafts/jewellery/bidriware.png",
+        image: "/images/crafts/jewellery/bidriware.webp",
         description:
           "A traditional metal craft recognised for dark surfaces decorated with contrasting inlay work.",
       },
@@ -285,7 +285,7 @@ const craftCategories = {
         name: "Filigree",
         slug: "filigree",
         region: "Odisha",
-        image: "/images/crafts/jewellery/filigree.png",
+        image: "/images/crafts/jewellery/filigree.webp",
         description:
           "A delicate metalworking technique involving fine wires shaped into intricate jewellery and decorative designs.",
       },
@@ -303,7 +303,7 @@ const craftCategories = {
         name: "Bamboo Baskets",
         slug: "bamboo-baskets",
         region: "Northeast India",
-        image: "/images/crafts/bamboo/baskets.png",
+        image: "/images/crafts/bamboo/baskets.webp",
         description:
           "Handwoven baskets made from bamboo and natural fibres for storage, farming and everyday use.",
       },
@@ -311,7 +311,7 @@ const craftCategories = {
         name: "Cane Furniture",
         slug: "cane-furniture",
         region: "Assam",
-        image: "/images/crafts/bamboo/furniture.png",
+        image: "/images/crafts/bamboo/furniture.webp",
         description:
           "Traditional furniture crafted from flexible cane using regional weaving techniques.",
       },
@@ -319,7 +319,7 @@ const craftCategories = {
         name: "Bamboo Weaving",
         slug: "bamboo-weaving",
         region: "Northeast India",
-        image: "/images/crafts/bamboo/weaving.png",
+        image: "/images/crafts/bamboo/weaving.webp",
         description:
           "Skilled weaving techniques used to transform bamboo into useful and decorative objects.",
       },
@@ -327,7 +327,7 @@ const craftCategories = {
         name: "Bamboo Instruments",
         slug: "bamboo-instruments",
         region: "Across India",
-        image: "/images/crafts/bamboo/instruments.png",
+        image: "/images/crafts/bamboo/instruments.webp",
         description:
           "Traditional musical instruments created from bamboo and other natural materials.",
       },
@@ -335,7 +335,7 @@ const craftCategories = {
         name: "Cane Baskets",
         slug: "cane-baskets",
         region: "Northeast India",
-        image: "/images/crafts/bamboo/cane-baskets.png",
+        image: "/images/crafts/bamboo/cane-baskets.webp",
         description:
           "Handwoven cane products combining practical everyday use with regional craftsmanship.",
       },
@@ -343,7 +343,7 @@ const craftCategories = {
         name: "Bamboo Decor",
         slug: "bamboo-decor",
         region: "Across India",
-        image: "/images/crafts/bamboo/decor.png",
+        image: "/images/crafts/bamboo/decor.webp",
         description:
           "Decorative handmade objects created from bamboo using traditional artisan techniques.",
       },

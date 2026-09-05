@@ -13,7 +13,7 @@ const cultureCategories = {
         name: "Holi",
         slug: "holi",
         region: "North India",
-        image: "/images/culture/festivals & celebrations/holi.jpeg",
+        image: "/images/culture/festivals & celebrations/holi.webp",
         description:
           "The festival of colours celebrated with music, joy, food and communities coming together.",
       },
@@ -21,7 +21,7 @@ const cultureCategories = {
         name: "Diwali",
         slug: "diwali",
         region: "Pan India",
-        image: "/images/culture/festivals & celebrations/diwali.jpeg",
+        image: "/images/culture/festivals & celebrations/diwali.webp",
         description:
           "The festival of lights celebrated with lamps, prayers, sweets and family gatherings.",
       },
@@ -29,7 +29,7 @@ const cultureCategories = {
         name: "Durga Puja",
         slug: "durga-puja",
         region: "West Bengal",
-        image: "/images/culture/festivals & celebrations/durga.jpeg",
+        image: "/images/culture/festivals & celebrations/durga.webp",
         description:
           "A grand cultural celebration featuring artistic pandals, music, rituals and community gatherings.",
       },
@@ -37,7 +37,7 @@ const cultureCategories = {
         name: "Onam",
         slug: "onam",
         region: "Kerala",
-        image: "/images/culture/festivals & celebrations/onam.jpeg",
+        image: "/images/culture/festivals & celebrations/onam.webp",
         description:
           "Kerala's harvest festival known for floral designs, traditional celebrations and Onam Sadya.",
       },
@@ -45,7 +45,7 @@ const cultureCategories = {
         name: "Pongal",
         slug: "pongal",
         region: "Tamil Nadu",
-        image: "/images/culture/festivals & celebrations/pongal.jpeg",
+        image: "/images/culture/festivals & celebrations/pongal.webp",
         description:
           "A harvest celebration honouring nature, agriculture, prosperity and family traditions.",
       },
@@ -53,7 +53,7 @@ const cultureCategories = {
         name: "Bihu",
         slug: "bihu",
         region: "Assam",
-        image: "/images/culture/festivals & celebrations/bihu.jpeg",
+        image: "/images/culture/festivals & celebrations/bihu.webp",
         description:
           "An Assamese festival connected with agriculture, traditional music, dance and community celebrations.",
       },
@@ -71,7 +71,7 @@ const cultureCategories = {
         name: "Bharatanatyam",
         slug: "bharatanatyam",
         region: "Tamil Nadu",
-        image: "/images/culture/dance & music/bharatnatyam.jpeg",
+        image: "/images/culture/dance & music/bharatnatyam.webp",
         description:
           "A classical dance tradition known for precise movements and expressive storytelling.",
       },
@@ -79,7 +79,7 @@ const cultureCategories = {
         name: "Kathak",
         slug: "kathak",
         region: "North India",
-        image: "/images/culture/dance & music/kathak.jpeg",
+        image: "/images/culture/dance & music/kathak.webp",
         description:
           "A classical dance tradition known for intricate footwork, spins and storytelling.",
       },
@@ -87,7 +87,7 @@ const cultureCategories = {
         name: "Kathakali",
         slug: "kathakali",
         region: "Kerala",
-        image: "/images/culture/dance & music/kathakali.jpeg",
+        image: "/images/culture/dance & music/kathakali.webp",
         description:
           "A dramatic dance tradition recognised for elaborate costumes, makeup and expressive performance.",
       },
@@ -95,7 +95,7 @@ const cultureCategories = {
         name: "Hindustani Music",
         slug: "hindustani-music",
         region: "North India",
-        image: "/images/culture/dance & music/hindustani.jpeg",
+        image: "/images/culture/dance & music/hindustani.webp",
         description:
           "A classical musical tradition built around ragas, rhythm and improvisation.",
       },
@@ -103,7 +103,7 @@ const cultureCategories = {
         name: "Carnatic Music",
         slug: "carnatic-music",
         region: "South India",
-        image: "/images/culture/dance & music/carnatic.jpeg",
+        image: "/images/culture/dance & music/carnatic.webp",
         description:
           "The classical music tradition of South India known for complex compositions and rhythms.",
       },
@@ -111,7 +111,7 @@ const cultureCategories = {
         name: "Bihu Dance",
         slug: "bihu-dance",
         region: "Assam",
-        image: "/images/culture/dance & music/bihu.jpeg",
+        image: "/images/culture/dance & music/bihu.webp",
         description:
           "An energetic Assamese folk dance traditionally associated with Bihu celebrations.",
       },
@@ -129,7 +129,7 @@ const cultureCategories = {
         name: "Banarasi Silk",
         slug: "banarasi-silk",
         region: "Uttar Pradesh",
-        image: "/images/culture/clothing/banarasi.jpeg",
+        image: "/images/culture/clothing/banarasi.webp",
         description:
           "Luxurious silk textiles from Varanasi known for intricate weaving and rich designs.",
       },
@@ -137,7 +137,7 @@ const cultureCategories = {
         name: "Kanchipuram Silk",
         slug: "kanchipuram-silk",
         region: "Tamil Nadu",
-        image: "/images/culture/clothing/kanchipuram.jpeg",
+        image: "/images/culture/clothing/kanchipuram.webp",
         description:
           "Traditional silk sarees recognised for rich colours and detailed borders.",
       },
@@ -145,7 +145,7 @@ const cultureCategories = {
         name: "Phulkari",
         slug: "phulkari",
         region: "Punjab",
-        image: "/images/culture/clothing/phulkari.jpeg",
+        image: "/images/culture/clothing/phulkari.webp",
         description:
           "A colourful embroidery tradition featuring intricate floral patterns.",
       },
@@ -153,7 +153,7 @@ const cultureCategories = {
         name: "Bandhani",
         slug: "bandhani",
         region: "Rajasthan & Gujarat",
-        image: "/images/culture/clothing/bandhani.jpeg",
+        image: "/images/culture/clothing/bandhani.webp",
         description:
           "A traditional tie-and-dye textile technique creating distinctive patterns.",
       },
@@ -161,7 +161,7 @@ const cultureCategories = {
         name: "Kasavu",
         slug: "kasavu",
         region: "Kerala",
-        image: "/images/culture/clothing/kasavu.jpeg",
+        image: "/images/culture/clothing/kasavu.webp",
         description:
           "Kerala's traditional textile style often recognised by its elegant gold border.",
       },
@@ -169,7 +169,7 @@ const cultureCategories = {
         name: "Pashmina",
         slug: "pashmina",
         region: "Kashmir",
-        image: "/images/culture/clothing/paschmina.jpeg",
+        image: "/images/culture/clothing/paschmina.webp",
         description:
           "A fine wool textile tradition known for softness and detailed craftsmanship.",
       },
@@ -187,7 +187,7 @@ const cultureCategories = {
         name: "Madhubani",
         slug: "madhubani",
         region: "Bihar",
-        image: "/images/culture/art-storytelling/madhubani.png",
+        image: "/images/culture/art-storytelling/madhubani.webp",
         description:
           "A distinctive painting tradition known for bold patterns, natural themes and storytelling.",
       },
@@ -195,7 +195,7 @@ const cultureCategories = {
         name: "Warli",
         slug: "warli",
         region: "Maharashtra",
-        image: "/images/culture/art-storytelling/warli.png",
+        image: "/images/culture/art-storytelling/warli.webp",
         description:
           "A tribal painting tradition characterised by simple geometric human and animal figures.",
       },
@@ -203,7 +203,7 @@ const cultureCategories = {
         name: "Pattachitra",
         slug: "pattachitra",
         region: "Odisha",
-        image: "/images/culture/art-storytelling/pattachitra.png",
+        image: "/images/culture/art-storytelling/pattachitra.webp",
         description:
           "A traditional painting style known for detailed compositions and mythological themes.",
       },
@@ -211,7 +211,7 @@ const cultureCategories = {
         name: "Kalamkari",
         slug: "kalamkari",
         region: "South India",
-        image: "/images/culture/art-storytelling/kalamkari.png",
+        image: "/images/culture/art-storytelling/kalamkari.webp",
         description:
           "A textile and painting tradition featuring hand-drawn and naturally dyed designs.",
       },
@@ -219,7 +219,7 @@ const cultureCategories = {
         name: "Blue Pottery",
         slug: "blue-pottery",
         region: "Rajasthan",
-        image: "/images/culture/art-storytelling/blue-pottery.png",
+        image: "/images/culture/art-storytelling/blue-pottery.webp",
         description:
           "A decorative craft associated with Jaipur and known for colourful glazed designs.",
       },
@@ -227,7 +227,7 @@ const cultureCategories = {
         name: "Dhokra",
         slug: "dhokra",
         region: "Central & Eastern India",
-        image: "/images/culture/art-storytelling/dhokra.png",
+        image: "/images/culture/art-storytelling/dhokra.webp",
         description:
           "An ancient metal-casting tradition using the lost-wax technique.",
       },
@@ -245,7 +245,7 @@ const cultureCategories = {
         name: "Family Traditions",
         slug: "family-traditions",
         region: "Pan India",
-        image: "/images/culture/traditions-lifestyle/family.png",
+        image: "/images/culture/traditions-lifestyle/family.webp",
         description:
           "Family gatherings, ceremonies, weddings and rituals remain an important part of Indian social life.",
       },
@@ -253,7 +253,7 @@ const cultureCategories = {
         name: "Village Life",
         slug: "village-life",
         region: "Rural India",
-        image: "/images/culture/traditions-lifestyle/village.png",
+        image: "/images/culture/traditions-lifestyle/village.webp",
         description:
           "Traditional communities continue to preserve agricultural practices, crafts and local customs.",
       },
@@ -261,7 +261,7 @@ const cultureCategories = {
         name: "Spiritual Traditions",
         slug: "spiritual-traditions",
         region: "Pan India",
-        image: "/images/culture/traditions-lifestyle/spiritual.png",
+        image: "/images/culture/traditions-lifestyle/spiritual.webp",
         description:
           "Pilgrimage, prayer, meditation and community rituals form an important part of life.",
       },
@@ -269,7 +269,7 @@ const cultureCategories = {
         name: "Local Markets",
         slug: "local-markets",
         region: "Pan India",
-        image: "/images/culture/traditions-lifestyle/markets.png",
+        image: "/images/culture/traditions-lifestyle/markets.webp",
         description:
           "Traditional bazaars bring together food, textiles, crafts, spices and community life.",
       },
@@ -277,7 +277,7 @@ const cultureCategories = {
         name: "Indian Hospitality",
         slug: "hospitality",
         region: "Pan India",
-        image: "/images/culture/traditions-lifestyle/hospitality.png",
+        image: "/images/culture/traditions-lifestyle/hospitality.webp",
         description:
           "Welcoming guests and sharing food are deeply valued traditions across Indian communities.",
       },
@@ -285,7 +285,7 @@ const cultureCategories = {
         name: "Regional Identity",
         slug: "regional-identity",
         region: "Across India",
-        image: "/images/culture/traditions-lifestyle/regional.png",
+        image: "/images/culture/traditions-lifestyle/regional.webp",
         description:
           "Language, clothing, cuisine and customs create distinctive identities across India's regions.",
       },
@@ -303,7 +303,7 @@ const cultureCategories = {
         name: "Hindi Literature",
         slug: "hindi-literature",
         region: "North & Central India",
-        image: "/images/culture/languages-literature/hindi.png",
+        image: "/images/culture/languages-literature/hindi.webp",
         description:
           "A rich literary tradition spanning poetry, novels, stories and regional voices.",
       },
@@ -311,7 +311,7 @@ const cultureCategories = {
         name: "Bengali Literature",
         slug: "bengali-literature",
         region: "West Bengal",
-        image: "/images/culture/languages-literature/bengali.png",
+        image: "/images/culture/languages-literature/bengali.webp",
         description:
           "A celebrated literary tradition known for poetry, novels, theatre and intellectual writing.",
       },
@@ -319,7 +319,7 @@ const cultureCategories = {
         name: "Tamil Literature",
         slug: "tamil-literature",
         region: "Tamil Nadu",
-        image: "/images/culture/languages-literature/tamil.png",
+        image: "/images/culture/languages-literature/tamil.webp",
         description:
           "One of India's oldest literary traditions with a long history of poetry and classical works.",
       },
@@ -327,7 +327,7 @@ const cultureCategories = {
         name: "Sanskrit Literature",
         slug: "sanskrit-literature",
         region: "Pan India",
-        image: "/images/culture/languages-literature/sanskrit.png",
+        image: "/images/culture/languages-literature/sanskrit.webp",
         description:
           "An ancient literary tradition containing philosophical, poetic and scholarly works.",
       },
@@ -335,7 +335,7 @@ const cultureCategories = {
         name: "Urdu Poetry",
         slug: "urdu-poetry",
         region: "North India",
-        image: "/images/culture/languages-literature/urdu.png",
+        image: "/images/culture/languages-literature/urdu.webp",
         description:
           "A poetic tradition celebrated for its expressive language, ghazals and literary culture.",
       },
@@ -343,7 +343,7 @@ const cultureCategories = {
         name: "Folk Storytelling",
         slug: "folk-storytelling",
         region: "Across India",
-        image: "/images/culture/languages-literature/folk.png",
+        image: "/images/culture/languages-literature/folk.webp",
         description:
           "Oral storytelling traditions preserve local legends, myths, values and community memories.",
       },

@@ -7,7 +7,7 @@ export default function Forts() {
       name: "Amber Fort",
       slug: "amber-fort",
       state: "Rajasthan",
-      image: "/images/amber.png",
+      image: "/images/amber.webp",
       description:
         "A magnificent hill fort known for its grand courtyards, artistic architecture and royal history.",
     },
@@ -15,7 +15,7 @@ export default function Forts() {
       name: "Red Fort",
       slug: "red-fort",
       state: "Delhi",
-      image: "/images/redfort.png",
+      image: "/images/redfort.webp",
       description:
         "A historic Mughal fort and one of Delhi's most iconic landmarks.",
     },
@@ -23,7 +23,7 @@ export default function Forts() {
       name: "Mehrangarh Fort",
       slug: "mehrangarh-fort",
       state: "Rajasthan",
-      image: "/images/Mehrangarh.png",
+      image: "/images/Mehrangarh.webp",
       description:
         "A majestic fort rising above Jodhpur, showcasing Rajput architecture and royal heritage.",
     },
@@ -31,7 +31,7 @@ export default function Forts() {
       name: "Mysore Palace",
       slug: "mysore-palace",
       state: "Karnataka",
-      image: "/images/mysore.png",
+      image: "/images/mysore.webp",
       description:
         "A spectacular palace celebrated for its royal interiors, architecture and illuminated evenings.",
     },
@@ -39,7 +39,7 @@ export default function Forts() {
       name: "Chittorgarh Fort",
       slug: "chittorgarh-fort",
       state: "Rajasthan",
-      image: "/images/chittorgarh.png",
+      image: "/images/chittorgarh.webp",
       description:
         "One of India's largest forts, carrying stories of Rajput courage, sacrifice and history.",
     },
@@ -47,7 +47,7 @@ export default function Forts() {
       name: "City Palace",
       slug: "city-palace",
       state: "Rajasthan",
-      image: "/images/citypalace.png",
+      image: "/images/citypalace.webp",
       description:
         "A beautiful palace complex overlooking Lake Pichola and reflecting Udaipur's royal heritage.",
     },

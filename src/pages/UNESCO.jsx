@@ -7,7 +7,7 @@ export default function UNESCO() {
       name: "Taj Mahal",
       slug: "taj-mahal",
       state: "Uttar Pradesh",
-      image: "/images/tajmahal.png",
+      image: "/images/tajmahal.webp",
       description:
         "A globally recognised masterpiece of Mughal architecture and one of India's most iconic heritage sites.",
     },
@@ -15,7 +15,7 @@ export default function UNESCO() {
       name: "Khajuraho Group of Monuments",
       slug: "khajuraho-group-of-monuments",
       state: "Madhya Pradesh",
-      image: "/images/khajuraho.png",
+      image: "/images/khajuraho.webp",
       description:
         "A remarkable collection of temples celebrated for their intricate sculptures and extraordinary architecture.",
     },
@@ -23,7 +23,7 @@ export default function UNESCO() {
       name: "Sun Temple, Konark",
       slug: "sun-temple-konark",
       state: "Odisha",
-      image: "/images/suntemple.png",
+      image: "/images/suntemple.webp",
       description:
         "A spectacular temple designed as a monumental stone chariot dedicated to the Sun God.",
     },
@@ -31,7 +31,7 @@ export default function UNESCO() {
       name: "Ajanta Caves",
       slug: "ajanta-caves",
       state: "Maharashtra",
-      image: "/images/ajanta.png",
+      image: "/images/ajanta.webp",
       description:
         "Ancient rock-cut caves known for their Buddhist paintings, sculptures and remarkable craftsmanship.",
     },
@@ -39,7 +39,7 @@ export default function UNESCO() {
       name: "Ellora Caves",
       slug: "ellora-caves",
       state: "Maharashtra",
-      image: "/images/ellora.png",
+      image: "/images/ellora.webp",
       description:
         "A magnificent complex of Buddhist, Hindu and Jain rock-cut monuments.",
     },
@@ -47,7 +47,7 @@ export default function UNESCO() {
       name: "Sanchi",
       slug: "sanchi",
       state: "Madhya Pradesh",
-      image: "/images/sanchi.png",
+      image: "/images/sanchi.webp",
       description:
         "An important Buddhist heritage site featuring ancient stupas, gateways and monuments.",
     },

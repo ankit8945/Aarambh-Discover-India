@@ -96,6 +96,26 @@ LANGUAGE PROVIDER
 ============================================================
 */
 
+
+export function getTranslationLookup(language = "en") {
+  const result = {};
+  const walk = (en, translated) => {
+    if (typeof en === "string" && typeof translated === "string") { result[en.trim()] = translated; return; }
+    if (!en || typeof en !== "object" || !translated || typeof translated !== "object") return;
+    Object.keys(en).forEach((key) => walk(en[key], translated[key] ?? en[key]));
+  };
+  const source = translations.en;
+  const target = translations[language] || source;
+  walk(source, target);
+  const extra = {
+    "Real-time Travel Safety Intelligence": {hi:"रीयल-टाइम यात्रा सुरक्षा इंटेलिजेंस",bn:"রিয়েল-টাইম ভ্রমণ নিরাপত্তা বুদ্ধিমত্তা",ta:"நிகழ்நேர பயண பாதுகாப்பு நுண்ணறிவு",te:"రియల్-టైమ్ ప్రయాణ భద్రతా సమాచారం",mr:"रिअल-टाइम प्रवास सुरक्षा माहिती",fr:"Intelligence de sécurité voyage en temps réel",es:"Inteligencia de seguridad de viaje en tiempo real"},
+    "Normal travel recommended": {hi:"सामान्य यात्रा की सलाह",bn:"স্বাভাবিক ভ্রমণের পরামর্শ",ta:"சாதாரண பயணம் பரிந்துரைக்கப்படுகிறது",te:"సాధారణ ప్రయాణం సిఫార్సు",mr:"सामान्य प्रवासाची शिफारस",fr:"Voyage normal recommandé",es:"Viaje normal recomendado"},
+    "Waiting for Admin Approval": {hi:"एडमिन की मंज़ूरी का इंतज़ार",bn:"অ্যাডমিন অনুমোদনের অপেক্ষায়",ta:"நிர்வாகி ஒப்புதலுக்காக காத்திருக்கிறது",te:"అడ్మిన్ ఆమోదం కోసం వేచి ఉంది",mr:"अॅडमिनच्या मंजुरीची प्रतीक्षा",fr:"En attente de l'approbation de l'administrateur",es:"Esperando la aprobación del administrador"}
+  };
+  Object.entries(extra).forEach(([en, map]) => { if (map[language]) result[en] = map[language]; });
+  return result;
+}
+
 export function LanguageProvider({ children }) {
   const [language, setLanguageState] = useState(() => {
     const savedLanguage = localStorage.getItem("language");

@@ -5,7 +5,7 @@ const gems = {
     name: "Tawang Monastery",
     state: "Arunachal Pradesh",
     location: "Tawang",
-    image: "/images/heritage/hiddengems/tawang.png",
+    image: "/images/heritage/hiddengems/tawang.webp",
     category: "BUDDHIST HERITAGE",
     intro:
       "High in the mountains of Arunachal Pradesh, Tawang Monastery stands as one of the most remarkable centres of Tibetan Buddhist culture in India.",
@@ -40,7 +40,7 @@ const gems = {
     name: "Majuli",
     state: "Assam",
     location: "Brahmaputra River",
-    image: "/images/heritage/hiddengems/majuli.png",
+    image: "/images/heritage/hiddengems/majuli.webp",
     category: "LIVING CULTURE",
 
     intro:
@@ -76,7 +76,7 @@ const gems = {
     name: "Champaner-Pavagadh",
     state: "Gujarat",
     location: "Panchmahal",
-    image: "/images/heritage/hiddengems/champaner.png",
+    image: "/images/heritage/hiddengems/champaner.webp",
     category: "ARCHAEOLOGICAL HERITAGE",
 
     intro:
@@ -112,7 +112,7 @@ const gems = {
     name: "Dholavira",
     state: "Gujarat",
     location: "Kutch",
-    image: "/images/heritage/hiddengems/dholavira.png",
+    image: "/images/heritage/hiddengems/dholavira.webp",
     category: "ANCIENT CIVILISATION",
 
     intro:
@@ -148,7 +148,7 @@ const gems = {
     name: "Mandu",
     state: "Madhya Pradesh",
     location: "Dhar District",
-    image: "/images/heritage/hiddengems/mandu.png",
+    image: "/images/heritage/hiddengems/mandu.webp",
     category: "MEDIEVAL HERITAGE",
 
     intro:
@@ -184,7 +184,7 @@ const gems = {
     name: "Chettinad",
     state: "Tamil Nadu",
     location: "Sivaganga & Pudukottai region",
-    image: "/images/heritage/hiddengems/chetinad.png",
+    image: "/images/heritage/hiddengems/chetinad.webp",
     category: "ARCHITECTURAL & CULTURAL HERITAGE",
 
     intro:

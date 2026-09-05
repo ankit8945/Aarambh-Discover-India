@@ -60,7 +60,7 @@ function LivingLanding() {
           </div>
         </div>
         <div className="living-hero-art living-hero-art-index">
-          <img src="/images/tajmahal.png" alt="Indian living heritage" />
+          <img src="/images/tajmahal.webp" alt="Indian living heritage" />
           <div className="hero-art-card">
             <span>135+</span>
             <div><small>LIVING TRADITIONS</small><strong>Places, food, culture & crafts</strong></div>

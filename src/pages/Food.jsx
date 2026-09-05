@@ -9,7 +9,7 @@ export default function Food() {
       title: "East Indian Cuisine",
       text:
         "Discover the rich flavours of Bengal, Odisha, Assam, Bihar and the eastern regions of India.",
-      image: "/images/food/east-india.png",
+      image: "/images/food/east-india.webp",
     },
 
     {
@@ -18,7 +18,7 @@ export default function Food() {
       title: "North Indian Cuisine",
       text:
         "Explore hearty flavours, traditional breads, rich curries and culinary traditions from North India.",
-      image: "/images/food/north-india.png",
+      image: "/images/food/north-india.webp",
     },
 
     {
@@ -27,7 +27,7 @@ export default function Food() {
       title: "South Indian Cuisine",
       text:
         "Experience the diverse flavours of Tamil Nadu, Kerala, Karnataka, Andhra Pradesh and Telangana.",
-      image: "/images/food/south-india.png",
+      image: "/images/food/south-india.webp",
     },
 
     {
@@ -36,7 +36,7 @@ export default function Food() {
       title: "West Indian Cuisine",
       text:
         "Explore the distinctive cuisines of Maharashtra, Gujarat, Goa and the western regions of India.",
-      image: "/images/food/west-india.png",
+      image: "/images/food/west-india.webp",
     },
 
     {
@@ -45,7 +45,7 @@ export default function Food() {
       title: "Street Food",
       text:
         "Discover India's irresistible street food culture, from spicy chaats to famous regional favourites.",
-      image: "/images/food/street-food.png",
+      image: "/images/food/street-food.webp",
     },
 
     {
@@ -54,7 +54,7 @@ export default function Food() {
       title: "Sweets & Drinks",
       text:
         "Taste India's beloved sweets, traditional desserts and refreshing drinks enjoyed across generations.",
-      image: "/images/food/sweets-drinks.png",
+      image: "/images/food/sweets-drinks.webp",
     },
   ];
 

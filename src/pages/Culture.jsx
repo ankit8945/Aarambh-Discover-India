@@ -21,7 +21,7 @@ export default function Culture() {
       explore:
         categories.festivals?.explore ||
         "Explore Festivals & Celebrations",
-      image: "/images/culture/festivals & celebrations/festivals.png",
+      image: "/images/culture/festivals & celebrations/festivals.webp",
     },
 
     {
@@ -34,7 +34,7 @@ export default function Culture() {
       explore:
         categories.danceMusic?.explore ||
         "Explore Dance & Music",
-      image: "/images/culture/dance & music/dance.png",
+      image: "/images/culture/dance & music/dance.webp",
     },
 
     {
@@ -47,7 +47,7 @@ export default function Culture() {
       explore:
         categories.clothing?.explore ||
         "Explore Traditional Clothing",
-      image: "/images/culture/clothing/traditionss.png",
+      image: "/images/culture/clothing/traditionss.webp",
     },
 
     {
@@ -62,7 +62,7 @@ export default function Culture() {
       explore:
         categories.artStorytelling?.explore ||
         "Explore Art & Storytelling",
-      image: "/images/culture/art-storytelling/art.png",
+      image: "/images/culture/art-storytelling/art.webp",
     },
 
     {
@@ -77,7 +77,7 @@ export default function Culture() {
       explore:
         categories.traditionsLifestyle?.explore ||
         "Explore Traditions & Lifestyle",
-      image: "/images/culture/traditions-lifestyle/traditionss.png",
+      image: "/images/culture/traditions-lifestyle/traditionss.webp",
     },
 
     {
@@ -92,7 +92,7 @@ export default function Culture() {
       explore:
         categories.languagesLiterature?.explore ||
         "Explore Languages & Literature",
-      image: "/images/culture/language/lang.png",
+      image: "/images/culture/language/lang.webp",
     },
   ];
 

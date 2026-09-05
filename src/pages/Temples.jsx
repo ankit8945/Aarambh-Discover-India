@@ -7,7 +7,7 @@ export default function Temples() {
       name: "Kashi Vishwanath Temple",
       slug: "kashi-vishwanath-temple",
       state: "Uttar Pradesh",
-      image: "/images/kashi.png",
+      image: "/images/kashi.webp",
       description:
         "One of India's most revered temples, located in the spiritual heart of Varanasi.",
     },
@@ -15,7 +15,7 @@ export default function Temples() {
       name: "Jagannath Temple",
       slug: "jagannath-temple",
       state: "Odisha",
-      image: "/images/jagannath.png",
+      image: "/images/jagannath.webp",
       description:
         "A sacred temple in Puri, renowned for its traditions, architecture and annual Rath Yatra.",
     },
@@ -23,7 +23,7 @@ export default function Temples() {
       name: "Meenakshi Amman Temple",
       slug: "meenakshi-amman-temple",
       state: "Tamil Nadu",
-      image: "/images/madurai.png",
+      image: "/images/madurai.webp",
       description:
         "A spectacular temple complex famous for its colourful towers and intricate sculptures.",
     },
@@ -31,7 +31,7 @@ export default function Temples() {
       name: "Kedarnath Temple",
       slug: "kedarnath-temple",
       state: "Uttarakhand",
-      image: "/images/kedarnath.png",
+      image: "/images/kedarnath.webp",
       description:
         "An ancient Himalayan temple surrounded by dramatic mountains and sacred landscapes.",
     },
@@ -39,7 +39,7 @@ export default function Temples() {
       name: "Konark Sun Temple",
       slug: "konark-sun-temple",
       state: "Odisha",
-      image: "/images/konark.png",
+      image: "/images/konark.webp",
       description:
         "A remarkable temple designed as a monumental chariot and celebrated for its stone carvings.",
     },
@@ -47,7 +47,7 @@ export default function Temples() {
       name: "Brihadeeswarar Temple",
       slug: "brihadeeswarar-temple",
       state: "Tamil Nadu",
-      image: "/images/thanjavur.png",
+      image: "/images/thanjavur.webp",
       description:
         "A masterpiece of Chola architecture known for its monumental scale and historic significance.",
     },

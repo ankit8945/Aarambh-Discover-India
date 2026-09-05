@@ -8,7 +8,7 @@ const heritageData = {
   "taj-mahal": {
     name: "Taj Mahal",
     state: "Uttar Pradesh",
-    image: "/images/tajmahal.png",
+    image: "/images/tajmahal.webp",
     eyebrow: "AGRA, UTTAR PRADESH",
     tagline: "A timeless symbol of love in white marble.",
     description:
@@ -28,7 +28,7 @@ const heritageData = {
   "hawa-mahal": {
     name: "Hawa Mahal",
     state: "Rajasthan",
-    image: "/images/hawamahal.png",
+    image: "/images/hawamahal.webp",
     eyebrow: "JAIPUR, RAJASTHAN",
     tagline: "The iconic Palace of Winds.",
     description:
@@ -48,7 +48,7 @@ const heritageData = {
   "victoria-memorial": {
     name: "Victoria Memorial",
     state: "West Bengal",
-    image: "/images/victoria.png",
+    image: "/images/victoria.webp",
     eyebrow: "KOLKATA, WEST BENGAL",
     tagline: "A grand marble landmark surrounded by gardens.",
     description:
@@ -68,7 +68,7 @@ const heritageData = {
   "konark-sun-temple": {
     name: "Konark Sun Temple",
     state: "Odisha",
-    image: "/images/konark.png",
+    image: "/images/konark.webp",
     eyebrow: "KONARK, ODISHA",
     tagline: "A monumental stone chariot dedicated to the Sun.",
     description:
@@ -88,7 +88,7 @@ const heritageData = {
   "sanchi-stupa": {
     name: "Sanchi Stupa",
     state: "Madhya Pradesh",
-    image: "/images/sanchi.png",
+    image: "/images/sanchi.webp",
     eyebrow: "SANCHI, MADHYA PRADESH",
     tagline: "A serene symbol of India's Buddhist heritage.",
     description:
@@ -108,7 +108,7 @@ const heritageData = {
   charminar: {
     name: "Charminar",
     state: "Telangana",
-    image: "/images/charminar.png",
+    image: "/images/charminar.webp",
     eyebrow: "HYDERABAD, TELANGANA",
     tagline: "The four-towered icon of Hyderabad.",
     description:
@@ -132,7 +132,7 @@ const heritageData = {
   "amber-fort": {
     name: "Amber Fort",
     state: "Rajasthan",
-    image: "/images/amber.png",
+    image: "/images/amber.webp",
     eyebrow: "JAIPUR, RAJASTHAN",
     tagline: "A magnificent hill fort shaped by Rajput grandeur.",
     description:
@@ -152,7 +152,7 @@ const heritageData = {
   "red-fort": {
     name: "Red Fort",
     state: "Delhi",
-    image: "/images/redfort.png",
+    image: "/images/redfort.webp",
     eyebrow: "DELHI, INDIA",
     tagline: "A monumental symbol of Mughal power and India's history.",
     description:
@@ -172,7 +172,7 @@ const heritageData = {
   "mehrangarh-fort": {
     name: "Mehrangarh Fort",
     state: "Rajasthan",
-    image: "/images/Mehrangarh.png",
+    image: "/images/Mehrangarh.webp",
     eyebrow: "JODHPUR, RAJASTHAN",
     tagline: "A towering fortress overlooking the Blue City.",
     description:
@@ -192,7 +192,7 @@ const heritageData = {
   "mysore-palace": {
     name: "Mysore Palace",
     state: "Karnataka",
-    image: "/images/mysore.png",
+    image: "/images/mysore.webp",
     eyebrow: "MYSORE, KARNATAKA",
     tagline: "A dazzling palace of royal grandeur and artistry.",
     description:
@@ -212,7 +212,7 @@ const heritageData = {
   "chittorgarh-fort": {
     name: "Chittorgarh Fort",
     state: "Rajasthan",
-    image: "/images/chittorgarh.png",
+    image: "/images/chittorgarh.webp",
     eyebrow: "CHITTORGARH, RAJASTHAN",
     tagline: "A vast fortress carrying centuries of Rajput history.",
     description:
@@ -232,7 +232,7 @@ const heritageData = {
   "city-palace": {
     name: "City Palace",
     state: "Rajasthan",
-    image: "/images/citypalace.png",
+    image: "/images/citypalace.webp",
     eyebrow: "UDAIPUR, RAJASTHAN",
     tagline: "A royal palace complex overlooking Lake Pichola.",
     description:
@@ -256,7 +256,7 @@ const heritageData = {
   "kashi-vishwanath-temple": {
     name: "Kashi Vishwanath Temple",
     state: "Uttar Pradesh",
-    image: "/images/kashi.png",
+    image: "/images/kashi.webp",
     eyebrow: "VARANASI, UTTAR PRADESH",
     tagline: "One of India's most revered temples.",
     description:
@@ -276,7 +276,7 @@ const heritageData = {
   "jagannath-temple": {
     name: "Jagannath Temple",
     state: "Odisha",
-    image: "/images/jagannath.png",
+    image: "/images/jagannath.webp",
     eyebrow: "PURI, ODISHA",
     tagline: "A sacred centre of devotion and the famous Rath Yatra.",
     description:
@@ -296,7 +296,7 @@ const heritageData = {
   "meenakshi-amman-temple": {
     name: "Meenakshi Amman Temple",
     state: "Tamil Nadu",
-    image: "/images/madurai.png",
+    image: "/images/madurai.webp",
     eyebrow: "MADURAI, TAMIL NADU",
     tagline: "A vibrant masterpiece of Dravidian temple architecture.",
     description:
@@ -316,7 +316,7 @@ const heritageData = {
   "kedarnath-temple": {
     name: "Kedarnath Temple",
     state: "Uttarakhand",
-    image: "/images/kedarnath.png",
+    image: "/images/kedarnath.webp",
     eyebrow: "KEDARNATH, UTTARAKHAND",
     tagline: "A sacred Himalayan temple surrounded by dramatic mountains.",
     description:
@@ -336,7 +336,7 @@ const heritageData = {
   "brihadeeswarar-temple": {
     name: "Brihadeeswarar Temple",
     state: "Tamil Nadu",
-    image: "/images/thanjavur.png",
+    image: "/images/thanjavur.webp",
     eyebrow: "THANJAVUR, TAMIL NADU",
     tagline: "A monumental expression of Chola architectural brilliance.",
     description:
@@ -360,7 +360,7 @@ const heritageData = {
   kolkata: {
     name: "Kolkata",
     state: "West Bengal",
-    image: "/images/kolkata.png",
+    image: "/images/kolkata.webp",
     eyebrow: "WEST BENGAL, INDIA",
     tagline: "A city where colonial history meets Bengali culture.",
     description:
@@ -380,7 +380,7 @@ const heritageData = {
   udaipur: {
     name: "Udaipur",
     state: "Rajasthan",
-    image: "/images/udaipur.png",
+    image: "/images/udaipur.webp",
     eyebrow: "RAJASTHAN, INDIA",
     tagline: "The romantic city of lakes and royal palaces.",
     description:
@@ -400,7 +400,7 @@ const heritageData = {
   khajuraho: {
     name: "Khajuraho Group of Monuments",
     state: "Madhya Pradesh",
-    image: "/images/khajuraho.png",
+    image: "/images/khajuraho.webp",
     eyebrow: "KHAJURAHO, MADHYA PRADESH",
     tagline: "A celebrated collection of temples carved in stone.",
     description:
@@ -424,7 +424,7 @@ const heritageData = {
   "ajanta-caves": {
     name: "Ajanta Caves",
     state: "Maharashtra",
-    image: "/images/ajanta.png",
+    image: "/images/ajanta.webp",
     eyebrow: "MAHARASHTRA, INDIA",
     tagline: "Ancient Buddhist caves filled with extraordinary paintings.",
     description:
@@ -444,7 +444,7 @@ const heritageData = {
   "ellora-caves": {
     name: "Ellora Caves",
     state: "Maharashtra",
-    image: "/images/ellora.png",
+    image: "/images/ellora.webp",
     eyebrow: "MAHARASHTRA, INDIA",
     tagline: "A monumental meeting of Buddhist, Hindu and Jain traditions.",
     description:
@@ -468,7 +468,7 @@ const heritageData = {
   "sun-temple-konark": {
     name: "Sun Temple, Konark",
     state: "Odisha",
-    image: "/images/suntemple.png",
+    image: "/images/suntemple.webp",
     eyebrow: "KONARK, ODISHA",
     tagline: "A magnificent stone chariot built for the Sun God.",
     description:
@@ -488,7 +488,7 @@ const heritageData = {
   mysore: {
     name: "Mysore",
     state: "Karnataka",
-    image: "/images/mysore.png",
+    image: "/images/mysore.webp",
     eyebrow: "MYSORE, KARNATAKA",
     tagline: "A royal city shaped by palaces, culture and tradition.",
     description:
@@ -508,7 +508,7 @@ const heritageData = {
   varanasi: {
     name: "Varanasi",
     state: "Uttar Pradesh",
-    image: "/images/varanasi.png",
+    image: "/images/varanasi.webp",
     eyebrow: "VARANASI, UTTAR PRADESH",
     tagline: "An ancient city where history and spirituality meet the Ganges.",
     description:
@@ -528,7 +528,7 @@ const heritageData = {
   jaipur: {
     name: "Jaipur",
     state: "Rajasthan",
-    image: "/images/jaipur.png",
+    image: "/images/jaipur.webp",
     eyebrow: "JAIPUR, RAJASTHAN",
     tagline: "The Pink City of royal architecture and vibrant streets.",
     description:
@@ -548,7 +548,7 @@ const heritageData = {
   agra: {
     name: "Agra",
     state: "Uttar Pradesh",
-    image: "/images/agra.png",
+    image: "/images/agra.webp",
     eyebrow: "AGRA, UTTAR PRADESH",
     tagline: "A historic Mughal city filled with architectural masterpieces.",
     description:
@@ -568,7 +568,7 @@ const heritageData = {
   "khajuraho-group-of-monuments": {
     name: "Khajuraho Group of Monuments",
     state: "Madhya Pradesh",
-    image: "/images/khajuraho.png",
+    image: "/images/khajuraho.webp",
     eyebrow: "KHAJURAHO, MADHYA PRADESH",
     tagline: "Temples where stone becomes a celebration of art and life.",
     description:
@@ -588,7 +588,7 @@ const heritageData = {
   sanchi: {
     name: "Sanchi",
     state: "Madhya Pradesh",
-    image: "/images/sanchi.png",
+    image: "/images/sanchi.webp",
     eyebrow: "MADHYA PRADESH, INDIA",
     tagline: "One of India's oldest and most important Buddhist landscapes.",
     description:
