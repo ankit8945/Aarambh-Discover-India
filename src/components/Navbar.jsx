@@ -26,7 +26,7 @@ export default function Navbar() {
       ===================================================== */}
 
       <NavLink to="/" className="logo">
-        <img src="/images/logo.webp" alt="Aarambh" />
+        <img src="/images/logo.png" alt="Aarambh" />
       </NavLink>
 
 
