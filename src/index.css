@@ -1,0 +1,140 @@
+@import "tailwindcss";
+
+:root {
+  --font-heritage: 'Cinzel', Georgia, serif;
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-royal: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Outfit', 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-devanagari: 'Rozha One', serif;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #ffffff;
+  color: #1c1917;
+}
+
+.font-heritage {
+  font-family: var(--font-heritage);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-royal {
+  font-family: var(--font-royal);
+}
+
+.font-devanagari {
+  font-family: var(--font-devanagari);
+}
+
+@keyframes floatUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px) scale(0.85);
+  }
+  20% {
+    opacity: 1;
+    transform: translateY(-20px) scale(1.05);
+  }
+  80% {
+    opacity: 0.9;
+    transform: translateY(-160px) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-240px) scale(0.9);
+  }
+}
+
+.animate-float-up {
+  animation: floatUp 4.5s ease-out forwards;
+}
+
+@media print {
+  /* Hide the main app root when printing */
+  body.printing #root {
+    display: none !important;
+  }
+  
+  /* Show only the cloned container and make sure everything is visible */
+  #print-clone-container {
+    display: block !important;
+    position: relative;
+    width: 100%;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: white !important;
+  }
+  
+  /* Prevent scrollbars from cutting off content in print */
+  #print-clone-container,
+  #print-clone-container * {
+    overflow: visible !important;
+  }
+  
+  /* Hide UI elements within the clone */
+  #print-clone-container .hide-on-print,
+  #print-clone-container button {
+    display: none !important;
+  }
+  
+  body.print-landscape @page {
+    size: A4 landscape;
+    margin: 1cm;
+  }
+  
+  body.print-portrait @page {
+    size: A4 portrait;
+    margin: 1cm;
+  }
+}
+
+/* Hide the print clone on screen displays to prevent UI leaks */
+@media screen {
+  #print-clone-container {
+    display: none !important;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(120, 113, 108, 0.25);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(120, 113, 108, 0.45);
+}
+
+/* Google Translate CSS Overrides */
+.goog-te-banner-frame.skiptranslate,
+.goog-te-gadget-icon {
+  display: none !important;
+}
+body {
+  top: 0px !important;
+}
+#google_translate_element {
+  display: none !important;
+}
+.goog-tooltip {
+  display: none !important;
+}
+.goog-tooltip:hover {
+  display: none !important;
+}
+.goog-text-highlight {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
