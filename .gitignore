@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 build/
 dist/
@@ -7,3 +8,9 @@ coverage/
 .env*
 !.env.example
 data/aarambh_db.json
+=======
+node_modules/ 
+.git/ 
+.git/ 
+Aarambh-Discover-India/ 
+>>>>>>> 6a6ed699d4a7aff4d4bec4f9c3a88c40c67551d6
